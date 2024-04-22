@@ -1,0 +1,6701 @@
+[
+  {
+    "il": "ADANA",
+    "ilceler": [
+      {
+        "orgOid": "00000000000802",
+        "vdKodu": "001251",
+        "vdAdi": "5 OCAK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 1
+      },
+      {
+        "orgOid": "00000000001915",
+        "vdKodu": "001250",
+        "vdAdi": "ADANA İHTİSAS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 1
+      },
+      {
+        "orgOid": "00000000001114",
+        "vdKodu": "001114",
+        "vdAdi": "ALADAĞ MALMÜD.",
+        "ilKodu": 1
+      },
+      {
+        "orgOid": "00000000000800",
+        "vdKodu": "001201",
+        "vdAdi": "CEYHAN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 1
+      },
+      {
+        "orgOid": "00000000001675",
+        "vdKodu": "001255",
+        "vdAdi": "ÇUKUROVA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 1
+      },
+      {
+        "orgOid": "00000000001108",
+        "vdKodu": "001103",
+        "vdAdi": "FEKE MALMÜD.",
+        "ilKodu": 1
+      },
+      {
+        "orgOid": "00000000001115",
+        "vdKodu": "001115",
+        "vdAdi": "İMAMOĞLU MALMÜD.",
+        "ilKodu": 1
+      },
+      {
+        "orgOid": "00000000001109",
+        "vdKodu": "001105",
+        "vdAdi": "KARAİSALI MALMÜD.",
+        "ilKodu": 1
+      },
+      {
+        "orgOid": "00000000001692",
+        "vdKodu": "001205",
+        "vdAdi": "KARATAŞ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 1
+      },
+      {
+        "orgOid": "00000000000801",
+        "vdKodu": "001203",
+        "vdAdi": "KOZAN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 1
+      },
+      {
+        "orgOid": "00000000001110",
+        "vdKodu": "001109",
+        "vdAdi": "POZANTI MALMÜD.",
+        "ilKodu": 1
+      },
+      {
+        "orgOid": "00000000001111",
+        "vdKodu": "001110",
+        "vdAdi": "SAİMBEYLİ MALMÜD.",
+        "ilKodu": 1
+      },
+      {
+        "orgOid": "00000000000804",
+        "vdKodu": "001253",
+        "vdAdi": "SEYHAN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 1
+      },
+      {
+        "orgOid": "00000000001112",
+        "vdKodu": "001111",
+        "vdAdi": "TUFANBEYLİ MALMÜD.",
+        "ilKodu": 1
+      },
+      {
+        "orgOid": "00000000001113",
+        "vdKodu": "001112",
+        "vdAdi": "YUMURTALIK MALMÜD.",
+        "ilKodu": 1
+      },
+      {
+        "orgOid": "00000000000803",
+        "vdKodu": "001252",
+        "vdAdi": "YÜREĞİR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 1
+      },
+      {
+        "orgOid": "00000000000805",
+        "vdKodu": "001254",
+        "vdAdi": "ZİYAPAŞA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 1
+      }
+    ]
+  },
+  {
+    "il": "ADIYAMAN",
+    "ilceler": [
+      {
+        "orgOid": "00000000000806",
+        "vdKodu": "002260",
+        "vdAdi": "ADIYAMAN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 2
+      },
+      {
+        "orgOid": "00000000001693",
+        "vdKodu": "002101",
+        "vdAdi": "BESNİ MALMÜD.",
+        "ilKodu": 2
+      },
+      {
+        "orgOid": "00000000001116",
+        "vdKodu": "002102",
+        "vdAdi": "ÇELİKHAN MALMÜD.",
+        "ilKodu": 2
+      },
+      {
+        "orgOid": "00000000001117",
+        "vdKodu": "002103",
+        "vdAdi": "GERGER MALMÜD.",
+        "ilKodu": 2
+      },
+      {
+        "orgOid": "00000000001118",
+        "vdKodu": "002104",
+        "vdAdi": "GÖLBAŞI (ADIYAMAN) MALMÜD.",
+        "ilKodu": 2
+      },
+      {
+        "orgOid": "00000000001694",
+        "vdKodu": "002261",
+        "vdAdi": "KAHTA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 2
+      },
+      {
+        "orgOid": "00000000001119",
+        "vdKodu": "002106",
+        "vdAdi": "SAMSAT MALMÜD.",
+        "ilKodu": 2
+      },
+      {
+        "orgOid": "00000000001120",
+        "vdKodu": "002107",
+        "vdAdi": "SİNCİK MALMÜD.",
+        "ilKodu": 2
+      },
+      {
+        "orgOid": "00000000001121",
+        "vdKodu": "002108",
+        "vdAdi": "TUT MALMÜD.",
+        "ilKodu": 2
+      }
+    ]
+  },
+  {
+    "il": "AFYONKARAHİSAR",
+    "ilceler": [
+      {
+        "orgOid": "00000000001127",
+        "vdKodu": "003111",
+        "vdAdi": "BAŞMAKÇI MALMÜD.",
+        "ilKodu": 3
+      },
+      {
+        "orgOid": "00000000001128",
+        "vdKodu": "003112",
+        "vdAdi": "BAYAT (AFYON) MALMÜD.",
+        "ilKodu": 3
+      },
+      {
+        "orgOid": "00000000001697",
+        "vdKodu": "003261",
+        "vdAdi": "BOLVADİN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 3
+      },
+      {
+        "orgOid": "00000000001695",
+        "vdKodu": "003202",
+        "vdAdi": "ÇAY VERGİ DAİRESİ MÜD.",
+        "ilKodu": 3
+      },
+      {
+        "orgOid": "00000000001130",
+        "vdKodu": "003114",
+        "vdAdi": "ÇOBANLAR MALMÜD.",
+        "ilKodu": 3
+      },
+      {
+        "orgOid": "00000000001122",
+        "vdKodu": "003103",
+        "vdAdi": "DAZKIRI MALMÜD.",
+        "ilKodu": 3
+      },
+      {
+        "orgOid": "00000000001696",
+        "vdKodu": "003260",
+        "vdAdi": "DİNAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 3
+      },
+      {
+        "orgOid": "00000000001698",
+        "vdKodu": "003262",
+        "vdAdi": "EMİRDAĞ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 3
+      },
+      {
+        "orgOid": "00000000001131",
+        "vdKodu": "003115",
+        "vdAdi": "EVCİLER MALMÜD.",
+        "ilKodu": 3
+      },
+      {
+        "orgOid": "00000000001132",
+        "vdKodu": "003116",
+        "vdAdi": "HOCALAR MALMÜD.",
+        "ilKodu": 3
+      },
+      {
+        "orgOid": "00000000001123",
+        "vdKodu": "003105",
+        "vdAdi": "İHSANİYE MALMÜD.",
+        "ilKodu": 3
+      },
+      {
+        "orgOid": "00000000001129",
+        "vdKodu": "003264",
+        "vdAdi": "İSCEHİSAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 3
+      },
+      {
+        "orgOid": "00000000001133",
+        "vdKodu": "003117",
+        "vdAdi": "KIZILÖREN MALMÜD.",
+        "ilKodu": 3
+      },
+      {
+        "orgOid": "00000000000808",
+        "vdKodu": "003280",
+        "vdAdi": "KOCATEPE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 3
+      },
+      {
+        "orgOid": "00000000001699",
+        "vdKodu": "003263",
+        "vdAdi": "SANDIKLI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 3
+      },
+      {
+        "orgOid": "00000000001124",
+        "vdKodu": "003107",
+        "vdAdi": "SİNANPAŞA MALMÜD.",
+        "ilKodu": 3
+      },
+      {
+        "orgOid": "00000000001126",
+        "vdKodu": "003109",
+        "vdAdi": "ŞUHUT MALMÜD.",
+        "ilKodu": 3
+      },
+      {
+        "orgOid": "00000000001125",
+        "vdKodu": "003108",
+        "vdAdi": "SULTANDAĞI MALMÜD.",
+        "ilKodu": 3
+      },
+      {
+        "orgOid": "00000000000807",
+        "vdKodu": "003201",
+        "vdAdi": "TINAZTEPE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 3
+      }
+    ]
+  },
+  {
+    "il": "AĞRI",
+    "ilceler": [
+      {
+        "orgOid": "00000000000809",
+        "vdKodu": "004260",
+        "vdAdi": "AĞRI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 4
+      },
+      {
+        "orgOid": "00000000001134",
+        "vdKodu": "004101",
+        "vdAdi": "DİYADİN MALMÜD.",
+        "ilKodu": 4
+      },
+      {
+        "orgOid": "00000000001700",
+        "vdKodu": "004261",
+        "vdAdi": "DOĞUBEYAZIT VERGİ DAİRESİ MÜD.",
+        "ilKodu": 4
+      },
+      {
+        "orgOid": "00000000001135",
+        "vdKodu": "004103",
+        "vdAdi": "ELEŞKİRT MALMÜD.",
+        "ilKodu": 4
+      },
+      {
+        "orgOid": "00000000001136",
+        "vdKodu": "004104",
+        "vdAdi": "HAMUR MALMÜD.",
+        "ilKodu": 4
+      },
+      {
+        "orgOid": "00000000001137",
+        "vdKodu": "004262",
+        "vdAdi": "PATNOS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 4
+      },
+      {
+        "orgOid": "00000000001138",
+        "vdKodu": "004106",
+        "vdAdi": "TAŞLIÇAY MALMÜD.",
+        "ilKodu": 4
+      },
+      {
+        "orgOid": "00000000001139",
+        "vdKodu": "004107",
+        "vdAdi": "TUTAK MALMÜD.",
+        "ilKodu": 4
+      }
+    ]
+  },
+  {
+    "il": "AMASYA",
+    "ilceler": [
+      {
+        "orgOid": "00000000000810",
+        "vdKodu": "005260",
+        "vdAdi": "AMASYA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 5
+      },
+      {
+        "orgOid": "00000000001140",
+        "vdKodu": "005101",
+        "vdAdi": "GÖYNÜCEK MALMÜD.",
+        "ilKodu": 5
+      },
+      {
+        "orgOid": "06ekuvsais1l0b",
+        "vdKodu": "005262",
+        "vdAdi": "GÜMÜŞHACIKÖY VERGİ DAİRESİ MÜD.",
+        "ilKodu": 5
+      },
+      {
+        "orgOid": "00000000001141",
+        "vdKodu": "005106",
+        "vdAdi": "HAMAMÖZÜ MALMÜD.",
+        "ilKodu": 5
+      },
+      {
+        "orgOid": "00000000001701",
+        "vdKodu": "005261",
+        "vdAdi": "MERZİFON VERGİ DAİRESİ MÜD.",
+        "ilKodu": 5
+      },
+      {
+        "orgOid": "00000000001704",
+        "vdKodu": "005264",
+        "vdAdi": "SULUOVA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 5
+      },
+      {
+        "orgOid": "00000000001703",
+        "vdKodu": "005263",
+        "vdAdi": "TAŞOVA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 5
+      }
+    ]
+  },
+  {
+    "il": "ANKARA",
+    "ilceler": [
+      {
+        "orgOid": "00000000001932",
+        "vdKodu": "006285",
+        "vdAdi": "100. YIL İHTİSAS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000001150",
+        "vdKodu": "006125",
+        "vdAdi": "AKYURT MALMÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000001902",
+        "vdKodu": "006280",
+        "vdAdi": "ANADOLU İHTİSAS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000001901",
+        "vdKodu": "006281",
+        "vdAdi": "ANKARA İHTİSAS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000001927",
+        "vdKodu": "006283",
+        "vdAdi": "ANKARA KURUMLAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000001142",
+        "vdKodu": "006102",
+        "vdAdi": "AYAŞ MALMÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000001143",
+        "vdKodu": "006103",
+        "vdAdi": "BALA MALMÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000000833",
+        "vdKodu": "006276",
+        "vdAdi": "BAŞKENT VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000001706",
+        "vdKodu": "006209",
+        "vdAdi": "BEYPAZARI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000001144",
+        "vdKodu": "006106",
+        "vdAdi": "ÇAMLIDERE MALMÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000000816",
+        "vdKodu": "006257",
+        "vdAdi": "ÇANKAYA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000000812",
+        "vdKodu": "006211",
+        "vdAdi": "ÇUBUK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000000834",
+        "vdKodu": "006277",
+        "vdAdi": "CUMHURİYET VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000000823",
+        "vdKodu": "006264",
+        "vdAdi": "DİKİMEVİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000000831",
+        "vdKodu": "006274",
+        "vdAdi": "DIŞKAPI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000000824",
+        "vdKodu": "006265",
+        "vdAdi": "DOĞANBEY VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000001708",
+        "vdKodu": "006215",
+        "vdAdi": "ELMADAĞ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000000832",
+        "vdKodu": "006275",
+        "vdAdi": "ETİMESGUT VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000001151",
+        "vdKodu": "006127",
+        "vdAdi": "EVREN MALMÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000000829",
+        "vdKodu": "006272",
+        "vdAdi": "GÖLBAŞI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000001145",
+        "vdKodu": "006110",
+        "vdAdi": "GÜDÜL MALMÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000001928",
+        "vdKodu": "006282",
+        "vdAdi": "HARÇLAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000001707",
+        "vdKodu": "006213",
+        "vdAdi": "HAYMANA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000000825",
+        "vdKodu": "006268",
+        "vdAdi": "HİTİT VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000001929",
+        "vdKodu": "006284",
+        "vdAdi": "İVEDİK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000001149",
+        "vdKodu": "006279",
+        "vdAdi": "KAHRAMANKAZAN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000001146",
+        "vdKodu": "006112",
+        "vdAdi": "KALECİK MALMÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000000813",
+        "vdKodu": "006253",
+        "vdAdi": "KAVAKLIDERE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000000835",
+        "vdKodu": "006278",
+        "vdAdi": "KEÇİÖREN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000000817",
+        "vdKodu": "006258",
+        "vdAdi": "KIZILBEY VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000001147",
+        "vdKodu": "006115",
+        "vdAdi": "KIZILCAHAMAM MALMÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000000827",
+        "vdKodu": "006270",
+        "vdAdi": "M.KARAGÜZEL VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000000814",
+        "vdKodu": "006254",
+        "vdAdi": "MALTEPE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000000818",
+        "vdKodu": "006259",
+        "vdAdi": "MİTHATPAŞA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000001148",
+        "vdKodu": "006117",
+        "vdAdi": "NALLIHAN MALMÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000000828",
+        "vdKodu": "006271",
+        "vdAdi": "OSTİM VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000000811",
+        "vdKodu": "006205",
+        "vdAdi": "POLATLI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000000821",
+        "vdKodu": "006262",
+        "vdAdi": "SEĞMENLER VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000001705",
+        "vdKodu": "006207",
+        "vdAdi": "ŞEREFLİKOÇHİSAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000000830",
+        "vdKodu": "006273",
+        "vdAdi": "SİNCAN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000000819",
+        "vdKodu": "006260",
+        "vdAdi": "ULUS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000001709",
+        "vdKodu": "006252",
+        "vdAdi": "VERASET VE İNTİKAL VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000000826",
+        "vdKodu": "006269",
+        "vdAdi": "Y.GALİP VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000001676",
+        "vdKodu": "006266",
+        "vdAdi": "YEĞENBEY VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000000815",
+        "vdKodu": "006255",
+        "vdAdi": "YENİMAHALLE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      },
+      {
+        "orgOid": "00000000000820",
+        "vdKodu": "006261",
+        "vdAdi": "YILDIRIMBEYAZIT VERGİ DAİRESİ MÜD.",
+        "ilKodu": 6
+      }
+    ]
+  },
+  {
+    "il": "ANTALYA",
+    "ilceler": [
+      {
+        "orgOid": "00000000001152",
+        "vdKodu": "007101",
+        "vdAdi": "AKSEKİ MALMÜD.",
+        "ilKodu": 7
+      },
+      {
+        "orgOid": "00000000000836",
+        "vdKodu": "007201",
+        "vdAdi": "ALANYA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 7
+      },
+      {
+        "orgOid": "00000000001912",
+        "vdKodu": "007256",
+        "vdAdi": "ANTALYA İHTİSAS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 7
+      },
+      {
+        "orgOid": "00000000000843",
+        "vdKodu": "007255",
+        "vdAdi": "ANTALYA KURUMLAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 7
+      },
+      {
+        "orgOid": "00000000001155",
+        "vdKodu": "007112",
+        "vdAdi": "DEMRE MALMÜD.",
+        "ilKodu": 7
+      },
+      {
+        "orgOid": "00000000000842",
+        "vdKodu": "007254",
+        "vdAdi": "DÜDEN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 7
+      },
+      {
+        "orgOid": "00000000001713",
+        "vdKodu": "007204",
+        "vdAdi": "ELMALI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 7
+      },
+      {
+        "orgOid": "00000000001710",
+        "vdKodu": "007104",
+        "vdAdi": "FİNİKE MALMÜD.",
+        "ilKodu": 7
+      },
+      {
+        "orgOid": "00000000001711",
+        "vdKodu": "007105",
+        "vdAdi": "GAZİPAŞA MALMÜD.",
+        "ilKodu": 7
+      },
+      {
+        "orgOid": "00000000001153",
+        "vdKodu": "007106",
+        "vdAdi": "GÜNDOĞMUŞ MALMÜD.",
+        "ilKodu": 7
+      },
+      {
+        "orgOid": "00000000001156",
+        "vdKodu": "007113",
+        "vdAdi": "İBRADI MALMÜD.",
+        "ilKodu": 7
+      },
+      {
+        "orgOid": "00000000000841",
+        "vdKodu": "007252",
+        "vdAdi": "KALEKAPI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 7
+      },
+      {
+        "orgOid": "00000000001712",
+        "vdKodu": "007107",
+        "vdAdi": "KAŞ MALMÜD.",
+        "ilKodu": 7
+      },
+      {
+        "orgOid": "00000000000839",
+        "vdKodu": "007205",
+        "vdAdi": "KEMER VERGİ DAİRESİ MÜD.",
+        "ilKodu": 7
+      },
+      {
+        "orgOid": "00000000001154",
+        "vdKodu": "007257",
+        "vdAdi": "KORKUTELİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 7
+      },
+      {
+        "orgOid": "00000000001714",
+        "vdKodu": "007206",
+        "vdAdi": "KUMLUCA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 7
+      },
+      {
+        "orgOid": "00000000000838",
+        "vdKodu": "007203",
+        "vdAdi": "MANAVGAT VERGİ DAİRESİ MÜD.",
+        "ilKodu": 7
+      },
+      {
+        "orgOid": "00000000001677",
+        "vdKodu": "007253",
+        "vdAdi": "MURATPAŞA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 7
+      },
+      {
+        "orgOid": "00000000000837",
+        "vdKodu": "007202",
+        "vdAdi": "SERİK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 7
+      },
+      {
+        "orgOid": "00000000000840",
+        "vdKodu": "007251",
+        "vdAdi": "ÜÇKAPILAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 7
+      }
+    ]
+  },
+  {
+    "il": "ARTVİN",
+    "ilceler": [
+      {
+        "orgOid": "00000000001157",
+        "vdKodu": "008101",
+        "vdAdi": "ARDANUÇ MALMÜD.",
+        "ilKodu": 8
+      },
+      {
+        "orgOid": "00000000001158",
+        "vdKodu": "008262",
+        "vdAdi": "ARHAVİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 8
+      },
+      {
+        "orgOid": "00000000000844",
+        "vdKodu": "008260",
+        "vdAdi": "ARTVİN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 8
+      },
+      {
+        "orgOid": "00000000001159",
+        "vdKodu": "008103",
+        "vdAdi": "BORÇKA MALMÜD.",
+        "ilKodu": 8
+      },
+      {
+        "orgOid": "00000000001715",
+        "vdKodu": "008261",
+        "vdAdi": "HOPA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 8
+      },
+      {
+        "orgOid": "00000000001162",
+        "vdKodu": "008107",
+        "vdAdi": "MURGUL MALMÜD.",
+        "ilKodu": 8
+      },
+      {
+        "orgOid": "00000000001160",
+        "vdKodu": "008105",
+        "vdAdi": "ŞAVŞAT MALMÜD.",
+        "ilKodu": 8
+      },
+      {
+        "orgOid": "00000000001161",
+        "vdKodu": "008106",
+        "vdAdi": "YUSUFELİ MALMÜD.",
+        "ilKodu": 8
+      }
+    ]
+  },
+  {
+    "il": "AYDIN",
+    "ilceler": [
+      {
+        "orgOid": "00000000001163",
+        "vdKodu": "009101",
+        "vdAdi": "BOZDOĞAN MALMÜD.",
+        "ilKodu": 9
+      },
+      {
+        "orgOid": "00000000001168",
+        "vdKodu": "009112",
+        "vdAdi": "BUHARKENT MALMÜD.",
+        "ilKodu": 9
+      },
+      {
+        "orgOid": "00000000000848",
+        "vdKodu": "009262",
+        "vdAdi": "ÇİNE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 9
+      },
+      {
+        "orgOid": "00000000001719",
+        "vdKodu": "009281",
+        "vdAdi": "DİDİM VERGİ DAİRESİ MÜD.",
+        "ilKodu": 9
+      },
+      {
+        "orgOid": "00000000000845",
+        "vdKodu": "009201",
+        "vdAdi": "EFELER VERGİ DAİRESİ MÜD.",
+        "ilKodu": 9
+      },
+      {
+        "orgOid": "00000000001718",
+        "vdKodu": "009263",
+        "vdAdi": "GERMENCİK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 9
+      },
+      {
+        "orgOid": "00000000000850",
+        "vdKodu": "009280",
+        "vdAdi": "GÜZELHİSAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 9
+      },
+      {
+        "orgOid": "00000000001717",
+        "vdKodu": "009113",
+        "vdAdi": "İNCİRLİOVA MALMÜD.",
+        "ilKodu": 9
+      },
+      {
+        "orgOid": "00000000001164",
+        "vdKodu": "009104",
+        "vdAdi": "KARACASU MALMÜD.",
+        "ilKodu": 9
+      },
+      {
+        "orgOid": "00000000001169",
+        "vdKodu": "009114",
+        "vdAdi": "KARPUZLU MALMÜD.",
+        "ilKodu": 9
+      },
+      {
+        "orgOid": "00000000001716",
+        "vdKodu": "009105",
+        "vdAdi": "KOÇARLI MALMÜD.",
+        "ilKodu": 9
+      },
+      {
+        "orgOid": "00000000001170",
+        "vdKodu": "009115",
+        "vdAdi": "KÖŞK MALMÜD.",
+        "ilKodu": 9
+      },
+      {
+        "orgOid": "00000000000849",
+        "vdKodu": "009265",
+        "vdAdi": "KUŞADASI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 9
+      },
+      {
+        "orgOid": "00000000001165",
+        "vdKodu": "009107",
+        "vdAdi": "KUYUCAK MALMÜD.",
+        "ilKodu": 9
+      },
+      {
+        "orgOid": "00000000000846",
+        "vdKodu": "009260",
+        "vdAdi": "NAZİLLİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 9
+      },
+      {
+        "orgOid": "00000000000847",
+        "vdKodu": "009261",
+        "vdAdi": "SÖKE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 9
+      },
+      {
+        "orgOid": "00000000001166",
+        "vdKodu": "009110",
+        "vdAdi": "SULTANHİSAR MALMÜD.",
+        "ilKodu": 9
+      },
+      {
+        "orgOid": "00000000001167",
+        "vdKodu": "009111",
+        "vdAdi": "YENİPAZAR (AYDIN) MALMÜD.",
+        "ilKodu": 9
+      }
+    ]
+  },
+  {
+    "il": "BALIKESİR",
+    "ilceler": [
+      {
+        "orgOid": "00000000000852",
+        "vdKodu": "010260",
+        "vdAdi": "AYVALIK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 10
+      },
+      {
+        "orgOid": "00000000001171",
+        "vdKodu": "010102",
+        "vdAdi": "BALYA MALMÜD.",
+        "ilKodu": 10
+      },
+      {
+        "orgOid": "00000000000853",
+        "vdKodu": "010261",
+        "vdAdi": "BANDIRMA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 10
+      },
+      {
+        "orgOid": "00000000001722",
+        "vdKodu": "010267",
+        "vdAdi": "BİGADİÇ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 10
+      },
+      {
+        "orgOid": "00000000000854",
+        "vdKodu": "010262",
+        "vdAdi": "BURHANİYE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 10
+      },
+      {
+        "orgOid": "00000000001724",
+        "vdKodu": "010269",
+        "vdAdi": "DURSUNBEY VERGİ DAİRESİ MÜD.",
+        "ilKodu": 10
+      },
+      {
+        "orgOid": "00000000001090",
+        "vdKodu": "010263",
+        "vdAdi": "EDREMİT VERGİ DAİRESİ MÜD.",
+        "ilKodu": 10
+      },
+      {
+        "orgOid": "00000000001721",
+        "vdKodu": "010266",
+        "vdAdi": "ERDEK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 10
+      },
+      {
+        "orgOid": "00000000001178",
+        "vdKodu": "010118",
+        "vdAdi": "GÖMEÇ MALMÜD.",
+        "ilKodu": 10
+      },
+      {
+        "orgOid": "00000000000855",
+        "vdKodu": "010264",
+        "vdAdi": "GÖNEN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 10
+      },
+      {
+        "orgOid": "00000000001172",
+        "vdKodu": "010110",
+        "vdAdi": "HAVRAN MALMÜD.",
+        "ilKodu": 10
+      },
+      {
+        "orgOid": "00000000001173",
+        "vdKodu": "010111",
+        "vdAdi": "İVRİNDİ MALMÜD.",
+        "ilKodu": 10
+      },
+      {
+        "orgOid": "00000000000851",
+        "vdKodu": "010201",
+        "vdAdi": "KARESİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 10
+      },
+      {
+        "orgOid": "00000000001174",
+        "vdKodu": "010112",
+        "vdAdi": "KEPSUT MALMÜD.",
+        "ilKodu": 10
+      },
+      {
+        "orgOid": "00000000000856",
+        "vdKodu": "010280",
+        "vdAdi": "KURTDERELİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 10
+      },
+      {
+        "orgOid": "00000000001175",
+        "vdKodu": "010113",
+        "vdAdi": "MANYAS MALMÜD.",
+        "ilKodu": 10
+      },
+      {
+        "orgOid": "00000000001177",
+        "vdKodu": "010117",
+        "vdAdi": "MARMARA MALMÜD.",
+        "ilKodu": 10
+      },
+      {
+        "orgOid": "00000000001176",
+        "vdKodu": "010114",
+        "vdAdi": "SAVAŞTEPE MALMÜD.",
+        "ilKodu": 10
+      },
+      {
+        "orgOid": "00000000001723",
+        "vdKodu": "010268",
+        "vdAdi": "SINDIRGI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 10
+      },
+      {
+        "orgOid": "00000000001720",
+        "vdKodu": "010265",
+        "vdAdi": "SUSURLUK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 10
+      }
+    ]
+  },
+  {
+    "il": "BİLECİK",
+    "ilceler": [
+      {
+        "orgOid": "00000000000857",
+        "vdKodu": "011260",
+        "vdAdi": "BİLECİK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 11
+      },
+      {
+        "orgOid": "00000000000858",
+        "vdKodu": "011261",
+        "vdAdi": "BOZÜYÜK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 11
+      },
+      {
+        "orgOid": "00000000001179",
+        "vdKodu": "011102",
+        "vdAdi": "GÖLPAZARI MALMÜD.",
+        "ilKodu": 11
+      },
+      {
+        "orgOid": "00000000001184",
+        "vdKodu": "011107",
+        "vdAdi": "İNHİSAR MALMÜD.",
+        "ilKodu": 11
+      },
+      {
+        "orgOid": "00000000001180",
+        "vdKodu": "011103",
+        "vdAdi": "OSMANELİ MALMÜD.",
+        "ilKodu": 11
+      },
+      {
+        "orgOid": "00000000001181",
+        "vdKodu": "011104",
+        "vdAdi": "PAZARYERİ MALMÜD.",
+        "ilKodu": 11
+      },
+      {
+        "orgOid": "00000000001182",
+        "vdKodu": "011105",
+        "vdAdi": "SÖĞÜT MALMÜD.",
+        "ilKodu": 11
+      },
+      {
+        "orgOid": "00000000001183",
+        "vdKodu": "011106",
+        "vdAdi": "YENİPAZAR (BİLECİK) MALMÜD.",
+        "ilKodu": 11
+      }
+    ]
+  },
+  {
+    "il": "BİNGÖL",
+    "ilceler": [
+      {
+        "orgOid": "00000000001189",
+        "vdKodu": "012105",
+        "vdAdi": "ADAKLI MALMÜD.",
+        "ilKodu": 12
+      },
+      {
+        "orgOid": "00000000000859",
+        "vdKodu": "012260",
+        "vdAdi": "BİNGÖL VERGİ DAİRESİ MÜD.",
+        "ilKodu": 12
+      },
+      {
+        "orgOid": "00000000001185",
+        "vdKodu": "012101",
+        "vdAdi": "GENÇ MALMÜD.",
+        "ilKodu": 12
+      },
+      {
+        "orgOid": "00000000001186",
+        "vdKodu": "012102",
+        "vdAdi": "KARLIOVA MALMÜD.",
+        "ilKodu": 12
+      },
+      {
+        "orgOid": "00000000001187",
+        "vdKodu": "012103",
+        "vdAdi": "KIĞI MALMÜD.",
+        "ilKodu": 12
+      },
+      {
+        "orgOid": "00000000001188",
+        "vdKodu": "012104",
+        "vdAdi": "SOLHAN MALMÜD.",
+        "ilKodu": 12
+      },
+      {
+        "orgOid": "00000000001190",
+        "vdKodu": "012106",
+        "vdAdi": "YAYLADERE MALMÜD.",
+        "ilKodu": 12
+      },
+      {
+        "orgOid": "00000000001191",
+        "vdKodu": "012107",
+        "vdAdi": "YEDİSU MALMÜD.",
+        "ilKodu": 12
+      }
+    ]
+  },
+  {
+    "il": "BİTLİS",
+    "ilceler": [
+      {
+        "orgOid": "00000000001192",
+        "vdKodu": "013101",
+        "vdAdi": "ADİLCEVAZ MALMÜD.",
+        "ilKodu": 13
+      },
+      {
+        "orgOid": "00000000001193",
+        "vdKodu": "013102",
+        "vdAdi": "AHLAT MALMÜD.",
+        "ilKodu": 13
+      },
+      {
+        "orgOid": "00000000000860",
+        "vdKodu": "013260",
+        "vdAdi": "BİTLİS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 13
+      },
+      {
+        "orgOid": "00000000001196",
+        "vdKodu": "013106",
+        "vdAdi": "GÜROYMAK MALMÜD.",
+        "ilKodu": 13
+      },
+      {
+        "orgOid": "00000000001194",
+        "vdKodu": "013103",
+        "vdAdi": "HİZAN MALMÜD.",
+        "ilKodu": 13
+      },
+      {
+        "orgOid": "00000000001195",
+        "vdKodu": "013104",
+        "vdAdi": "MUTKİ MALMÜD.",
+        "ilKodu": 13
+      },
+      {
+        "orgOid": "00000000001725",
+        "vdKodu": "013261",
+        "vdAdi": "TATVAN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 13
+      }
+    ]
+  },
+  {
+    "il": "BOLU",
+    "ilceler": [
+      {
+        "orgOid": "00000000000861",
+        "vdKodu": "014260",
+        "vdAdi": "BOLU VERGİ DAİRESİ MÜD.",
+        "ilKodu": 14
+      },
+      {
+        "orgOid": "00000000001202",
+        "vdKodu": "014113",
+        "vdAdi": "DÖRTDİVAN MALMÜD.",
+        "ilKodu": 14
+      },
+      {
+        "orgOid": "00000000001726",
+        "vdKodu": "014262",
+        "vdAdi": "GEREDE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 14
+      },
+      {
+        "orgOid": "00000000001197",
+        "vdKodu": "014104",
+        "vdAdi": "GÖYNÜK MALMÜD.",
+        "ilKodu": 14
+      },
+      {
+        "orgOid": "00000000001198",
+        "vdKodu": "014105",
+        "vdAdi": "KIBRISCIK MALMÜD.",
+        "ilKodu": 14
+      },
+      {
+        "orgOid": "00000000001199",
+        "vdKodu": "014106",
+        "vdAdi": "MENGEN MALMÜD.",
+        "ilKodu": 14
+      },
+      {
+        "orgOid": "00000000001200",
+        "vdKodu": "014107",
+        "vdAdi": "MUDURNU MALMÜD.",
+        "ilKodu": 14
+      },
+      {
+        "orgOid": "00000000001201",
+        "vdKodu": "014108",
+        "vdAdi": "SEBEN MALMÜD.",
+        "ilKodu": 14
+      },
+      {
+        "orgOid": "00000000001203",
+        "vdKodu": "014114",
+        "vdAdi": "YENİÇAĞA MALMÜD.",
+        "ilKodu": 14
+      }
+    ]
+  },
+  {
+    "il": "BURDUR",
+    "ilceler": [
+      {
+        "orgOid": "00000000001204",
+        "vdKodu": "015101",
+        "vdAdi": "AĞLASUN MALMÜD.",
+        "ilKodu": 15
+      },
+      {
+        "orgOid": "00000000001210",
+        "vdKodu": "015108",
+        "vdAdi": "ALTINYAYLA (BURDUR) MALMÜD.",
+        "ilKodu": 15
+      },
+      {
+        "orgOid": "00000000001727",
+        "vdKodu": "015261",
+        "vdAdi": "BUCAK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 15
+      },
+      {
+        "orgOid": "00000000000862",
+        "vdKodu": "015260",
+        "vdAdi": "BURDUR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 15
+      },
+      {
+        "orgOid": "00000000001211",
+        "vdKodu": "015109",
+        "vdAdi": "ÇAVDIR MALMÜD.",
+        "ilKodu": 15
+      },
+      {
+        "orgOid": "00000000001212",
+        "vdKodu": "015110",
+        "vdAdi": "ÇELTİKÇİ MALMÜD.",
+        "ilKodu": 15
+      },
+      {
+        "orgOid": "00000000001205",
+        "vdKodu": "015103",
+        "vdAdi": "GÖLHİSAR MALMÜD.",
+        "ilKodu": 15
+      },
+      {
+        "orgOid": "00000000001208",
+        "vdKodu": "015106",
+        "vdAdi": "KARAMANLI MALMÜD.",
+        "ilKodu": 15
+      },
+      {
+        "orgOid": "00000000001209",
+        "vdKodu": "015107",
+        "vdAdi": "KEMER(BURDUR) MALMÜD.",
+        "ilKodu": 15
+      },
+      {
+        "orgOid": "00000000001206",
+        "vdKodu": "015104",
+        "vdAdi": "TEFENNİ MALMÜD.",
+        "ilKodu": 15
+      },
+      {
+        "orgOid": "00000000001207",
+        "vdKodu": "015105",
+        "vdAdi": "YEŞİLOVA MALMÜD.",
+        "ilKodu": 15
+      }
+    ]
+  },
+  {
+    "il": "BURSA",
+    "ilceler": [
+      {
+        "orgOid": "00000000001905",
+        "vdKodu": "016250",
+        "vdAdi": "BURSA İHTİSAS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 16
+      },
+      {
+        "orgOid": "00000000001921",
+        "vdKodu": "016260",
+        "vdAdi": "BURSA VERASET VE HARÇLAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 16
+      },
+      {
+        "orgOid": "00000000001216",
+        "vdKodu": "016112",
+        "vdAdi": "BÜYÜKORHAN MALMÜD.",
+        "ilKodu": 16
+      },
+      {
+        "orgOid": "00000000000868",
+        "vdKodu": "016253",
+        "vdAdi": "ÇEKİRGE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 16
+      },
+      {
+        "orgOid": "00000000000872",
+        "vdKodu": "016258",
+        "vdAdi": "ERTUĞRULGAZİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 16
+      },
+      {
+        "orgOid": "00000000000863",
+        "vdKodu": "016201",
+        "vdAdi": "GEMLİK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 16
+      },
+      {
+        "orgOid": "00000000000873",
+        "vdKodu": "016259",
+        "vdAdi": "GÖKDERE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 16
+      },
+      {
+        "orgOid": "00000000001215",
+        "vdKodu": "016111",
+        "vdAdi": "HARMANCIK MALMÜD.",
+        "ilKodu": 16
+      },
+      {
+        "orgOid": "00000000000864",
+        "vdKodu": "016202",
+        "vdAdi": "İNEGÖL VERGİ DAİRESİ MÜD.",
+        "ilKodu": 16
+      },
+      {
+        "orgOid": "00000000001731",
+        "vdKodu": "016207",
+        "vdAdi": "İZNİK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 16
+      },
+      {
+        "orgOid": "00000000001728",
+        "vdKodu": "016203",
+        "vdAdi": "KARACABEY VERGİ DAİRESİ MÜD.",
+        "ilKodu": 16
+      },
+      {
+        "orgOid": "00000000001213",
+        "vdKodu": "016105",
+        "vdAdi": "KELES MALMÜD.",
+        "ilKodu": 16
+      },
+      {
+        "orgOid": "00000000001729",
+        "vdKodu": "016205",
+        "vdAdi": "MUDANYA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 16
+      },
+      {
+        "orgOid": "00000000000865",
+        "vdKodu": "016204",
+        "vdAdi": "MUSTAFAKEMALPAŞA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 16
+      },
+      {
+        "orgOid": "00000000000871",
+        "vdKodu": "016257",
+        "vdAdi": "NİLÜFER VERGİ DAİRESİ MÜD.",
+        "ilKodu": 16
+      },
+      {
+        "orgOid": "00000000001214",
+        "vdKodu": "016108",
+        "vdAdi": "ORHANELİ MALMÜD.",
+        "ilKodu": 16
+      },
+      {
+        "orgOid": "00000000001730",
+        "vdKodu": "016206",
+        "vdAdi": "ORHANGAZİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 16
+      },
+      {
+        "orgOid": "00000000000866",
+        "vdKodu": "016251",
+        "vdAdi": "OSMANGAZİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 16
+      },
+      {
+        "orgOid": "00000000000869",
+        "vdKodu": "016254",
+        "vdAdi": "SETBAŞI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 16
+      },
+      {
+        "orgOid": "00000000000870",
+        "vdKodu": "016255",
+        "vdAdi": "ULUDAĞ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 16
+      },
+      {
+        "orgOid": "00000000001732",
+        "vdKodu": "016208",
+        "vdAdi": "YENİŞEHİR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 16
+      },
+      {
+        "orgOid": "00000000001678",
+        "vdKodu": "016256",
+        "vdAdi": "YEŞİL VERGİ DAİRESİ MÜD.",
+        "ilKodu": 16
+      },
+      {
+        "orgOid": "00000000000867",
+        "vdKodu": "016252",
+        "vdAdi": "YILDIRIM VERGİ DAİRESİ MÜD.",
+        "ilKodu": 16
+      }
+    ]
+  },
+  {
+    "il": "ÇANAKKALE",
+    "ilceler": [
+      {
+        "orgOid": "00000000001217",
+        "vdKodu": "017101",
+        "vdAdi": "AYVACIK (ÇANAKKALE) MALMÜD.",
+        "ilKodu": 17
+      },
+      {
+        "orgOid": "00000000001218",
+        "vdKodu": "017102",
+        "vdAdi": "BAYRAMİÇ MALMÜD.",
+        "ilKodu": 17
+      },
+      {
+        "orgOid": "00000000000875",
+        "vdKodu": "017261",
+        "vdAdi": "BİGA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 17
+      },
+      {
+        "orgOid": "00000000001219",
+        "vdKodu": "017104",
+        "vdAdi": "BOZCAADA MALMÜD.",
+        "ilKodu": 17
+      },
+      {
+        "orgOid": "00000000000874",
+        "vdKodu": "017260",
+        "vdAdi": "ÇANAKKALE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 17
+      },
+      {
+        "orgOid": "00000000001733",
+        "vdKodu": "017262",
+        "vdAdi": "ÇAN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 17
+      },
+      {
+        "orgOid": "00000000001220",
+        "vdKodu": "017106",
+        "vdAdi": "ECEABAT MALMÜD.",
+        "ilKodu": 17
+      },
+      {
+        "orgOid": "00000000001221",
+        "vdKodu": "017107",
+        "vdAdi": "EZİNE MALMÜD.",
+        "ilKodu": 17
+      },
+      {
+        "orgOid": "00000000001734",
+        "vdKodu": "017263",
+        "vdAdi": "GELİBOLU VERGİ DAİRESİ MÜD.",
+        "ilKodu": 17
+      },
+      {
+        "orgOid": "00000000001222",
+        "vdKodu": "017109",
+        "vdAdi": "GÖKÇEADA MALMÜD.",
+        "ilKodu": 17
+      },
+      {
+        "orgOid": "00000000001223",
+        "vdKodu": "017110",
+        "vdAdi": "LAPSEKİ MALMÜD.",
+        "ilKodu": 17
+      },
+      {
+        "orgOid": "00000000001224",
+        "vdKodu": "017111",
+        "vdAdi": "YENİCE (ÇANAKKALE) MALMÜD.",
+        "ilKodu": 17
+      }
+    ]
+  },
+  {
+    "il": "ÇANKIRI",
+    "ilceler": [
+      {
+        "orgOid": "00000000001232",
+        "vdKodu": "018110",
+        "vdAdi": "ATKARACALAR MALMÜD.",
+        "ilKodu": 18
+      },
+      {
+        "orgOid": "00000000001234",
+        "vdKodu": "018112",
+        "vdAdi": "BAYRAMÖREN MALMÜD.",
+        "ilKodu": 18
+      },
+      {
+        "orgOid": "00000000000876",
+        "vdKodu": "018260",
+        "vdAdi": "ÇANKIRI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 18
+      },
+      {
+        "orgOid": "00000000001225",
+        "vdKodu": "018101",
+        "vdAdi": "ÇERKEŞ MALMÜD.",
+        "ilKodu": 18
+      },
+      {
+        "orgOid": "00000000001226",
+        "vdKodu": "018102",
+        "vdAdi": "ELDİVAN MALMÜD.",
+        "ilKodu": 18
+      },
+      {
+        "orgOid": "00000000001227",
+        "vdKodu": "018104",
+        "vdAdi": "ILGAZ MALMÜD.",
+        "ilKodu": 18
+      },
+      {
+        "orgOid": "00000000001233",
+        "vdKodu": "018111",
+        "vdAdi": "KIZILIRMAK MALMÜD.",
+        "ilKodu": 18
+      },
+      {
+        "orgOid": "00000000001235",
+        "vdKodu": "018113",
+        "vdAdi": "KORGUN MALMÜD.",
+        "ilKodu": 18
+      },
+      {
+        "orgOid": "00000000001228",
+        "vdKodu": "018105",
+        "vdAdi": "KURŞUNLU MALMÜD.",
+        "ilKodu": 18
+      },
+      {
+        "orgOid": "00000000001229",
+        "vdKodu": "018106",
+        "vdAdi": "ORTA MALMÜD.",
+        "ilKodu": 18
+      },
+      {
+        "orgOid": "00000000001230",
+        "vdKodu": "018108",
+        "vdAdi": "ŞABANÖZÜ MALMÜD.",
+        "ilKodu": 18
+      },
+      {
+        "orgOid": "00000000001231",
+        "vdKodu": "018109",
+        "vdAdi": "YAPRAKLI MALMÜD.",
+        "ilKodu": 18
+      }
+    ]
+  },
+  {
+    "il": "ÇORUM",
+    "ilceler": [
+      {
+        "orgOid": "00000000001735",
+        "vdKodu": "019101",
+        "vdAdi": "ALACA MALMÜD.",
+        "ilKodu": 19
+      },
+      {
+        "orgOid": "00000000001236",
+        "vdKodu": "019102",
+        "vdAdi": "BAYAT (ÇORUM) MALMÜD.",
+        "ilKodu": 19
+      },
+      {
+        "orgOid": "00000000001242",
+        "vdKodu": "019109",
+        "vdAdi": "BOĞAZKALE MALMÜD.",
+        "ilKodu": 19
+      },
+      {
+        "orgOid": "00000000000877",
+        "vdKodu": "019260",
+        "vdAdi": "ÇORUM VERGİ DAİRESİ MÜD.",
+        "ilKodu": 19
+      },
+      {
+        "orgOid": "00000000001244",
+        "vdKodu": "019111",
+        "vdAdi": "DODURGA MALMÜD.",
+        "ilKodu": 19
+      },
+      {
+        "orgOid": "00000000001930",
+        "vdKodu": "019262",
+        "vdAdi": "HASANPAŞA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 19
+      },
+      {
+        "orgOid": "00000000001237",
+        "vdKodu": "019103",
+        "vdAdi": "İSKİLİP MALMÜD.",
+        "ilKodu": 19
+      },
+      {
+        "orgOid": "00000000001238",
+        "vdKodu": "019104",
+        "vdAdi": "KARGI MALMÜD.",
+        "ilKodu": 19
+      },
+      {
+        "orgOid": "00000000001246",
+        "vdKodu": "019113",
+        "vdAdi": "LAÇİN MALMÜD.",
+        "ilKodu": 19
+      },
+      {
+        "orgOid": "00000000001239",
+        "vdKodu": "019105",
+        "vdAdi": "MECİTÖZÜ MALMÜD.",
+        "ilKodu": 19
+      },
+      {
+        "orgOid": "00000000001245",
+        "vdKodu": "019112",
+        "vdAdi": "OĞUZLAR MALMÜD.",
+        "ilKodu": 19
+      },
+      {
+        "orgOid": "00000000001240",
+        "vdKodu": "019106",
+        "vdAdi": "ORTAKÖY (ÇORUM) MALMÜD.",
+        "ilKodu": 19
+      },
+      {
+        "orgOid": "00000000001241",
+        "vdKodu": "019107",
+        "vdAdi": "OSMANCIK MALMÜD.",
+        "ilKodu": 19
+      },
+      {
+        "orgOid": "00000000001736",
+        "vdKodu": "019261",
+        "vdAdi": "SUNGURLU VERGİ DAİRESİ MÜD.",
+        "ilKodu": 19
+      },
+      {
+        "orgOid": "05f6rfy3pk1jd7",
+        "vdKodu": "019110",
+        "vdAdi": "UĞURLUDAĞ MALMÜD.",
+        "ilKodu": 19
+      }
+    ]
+  },
+  {
+    "il": "DENİZLİ",
+    "ilceler": [
+      {
+        "orgOid": "00000000001091",
+        "vdKodu": "020261",
+        "vdAdi": "ACIPAYAM VERGİ DAİRESİ MÜD.",
+        "ilKodu": 20
+      },
+      {
+        "orgOid": "00000000001251",
+        "vdKodu": "020111",
+        "vdAdi": "BABADAĞ MALMÜD.",
+        "ilKodu": 20
+      },
+      {
+        "orgOid": "00000000001256",
+        "vdKodu": "020116",
+        "vdAdi": "BAKLAN MALMÜD.",
+        "ilKodu": 20
+      },
+      {
+        "orgOid": "00000000001252",
+        "vdKodu": "020112",
+        "vdAdi": "BEKİLLİ MALMÜD.",
+        "ilKodu": 20
+      },
+      {
+        "orgOid": "00000000001257",
+        "vdKodu": "020117",
+        "vdAdi": "BEYAĞAÇ MALMÜD.",
+        "ilKodu": 20
+      },
+      {
+        "orgOid": "00000000001258",
+        "vdKodu": "020118",
+        "vdAdi": "BOZKURT (DENİZLİ) MALMÜD.",
+        "ilKodu": 20
+      },
+      {
+        "orgOid": "00000000001739",
+        "vdKodu": "020263",
+        "vdAdi": "BULDAN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 20
+      },
+      {
+        "orgOid": "00000000001740",
+        "vdKodu": "020264",
+        "vdAdi": "ÇAL VERGİ DAİRESİ MÜD.",
+        "ilKodu": 20
+      },
+      {
+        "orgOid": "00000000001247",
+        "vdKodu": "020104",
+        "vdAdi": "ÇAMELİ MALMÜD.",
+        "ilKodu": 20
+      },
+      {
+        "orgOid": "00000000001248",
+        "vdKodu": "020105",
+        "vdAdi": "ÇARDAK MALMÜD.",
+        "ilKodu": 20
+      },
+      {
+        "orgOid": "00000000001679",
+        "vdKodu": "020202",
+        "vdAdi": "ÇINAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 20
+      },
+      {
+        "orgOid": "00000000001092",
+        "vdKodu": "020265",
+        "vdAdi": "ÇİVRİL VERGİ DAİRESİ MÜD.",
+        "ilKodu": 20
+      },
+      {
+        "orgOid": "00000000001916",
+        "vdKodu": "020250",
+        "vdAdi": "DENİZLİ İHTİSAS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 20
+      },
+      {
+        "orgOid": "00000000000879",
+        "vdKodu": "020203",
+        "vdAdi": "GÖKPINAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 20
+      },
+      {
+        "orgOid": "00000000001249",
+        "vdKodu": "020107",
+        "vdAdi": "GÜNEY MALMÜD.",
+        "ilKodu": 20
+      },
+      {
+        "orgOid": "00000000001253",
+        "vdKodu": "020113",
+        "vdAdi": "HONAZ MALMÜD.",
+        "ilKodu": 20
+      },
+      {
+        "orgOid": "00000000001250",
+        "vdKodu": "020108",
+        "vdAdi": "KALE (DENİZLİ) MALMÜD.",
+        "ilKodu": 20
+      },
+      {
+        "orgOid": "00000000001255",
+        "vdKodu": "020115",
+        "vdAdi": "PAMUKKALE MALMÜD.",
+        "ilKodu": 20
+      },
+      {
+        "orgOid": "00000000000880",
+        "vdKodu": "020280",
+        "vdAdi": "PAMUKKALE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 20
+      },
+      {
+        "orgOid": "00000000001737",
+        "vdKodu": "020260",
+        "vdAdi": "SARAYKÖY VERGİ DAİRESİ MÜD.",
+        "ilKodu": 20
+      },
+      {
+        "orgOid": "00000000000878",
+        "vdKodu": "020201",
+        "vdAdi": "SARAYLAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 20
+      },
+      {
+        "orgOid": "00000000001254",
+        "vdKodu": "020114",
+        "vdAdi": "SERİNHİSAR MALMÜD.",
+        "ilKodu": 20
+      },
+      {
+        "orgOid": "00000000001738",
+        "vdKodu": "020262",
+        "vdAdi": "TAVAS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 20
+      }
+    ]
+  },
+  {
+    "il": "DİYARBAKIR",
+    "ilceler": [
+      {
+        "orgOid": "00000000001259",
+        "vdKodu": "021284",
+        "vdAdi": "BİSMİL VERGİ DAİRESİ MÜD.",
+        "ilKodu": 21
+      },
+      {
+        "orgOid": "00000000001093",
+        "vdKodu": "021282",
+        "vdAdi": "C.SITKI TARANCI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 21
+      },
+      {
+        "orgOid": "00000000001260",
+        "vdKodu": "021102",
+        "vdAdi": "ÇERMİK MALMÜD.",
+        "ilKodu": 21
+      },
+      {
+        "orgOid": "00000000001261",
+        "vdKodu": "021103",
+        "vdAdi": "ÇINAR MALMÜD.",
+        "ilKodu": 21
+      },
+      {
+        "orgOid": "00000000001262",
+        "vdKodu": "021104",
+        "vdAdi": "ÇÜNGÜŞ MALMÜD.",
+        "ilKodu": 21
+      },
+      {
+        "orgOid": "00000000001263",
+        "vdKodu": "021105",
+        "vdAdi": "DİCLE MALMÜD.",
+        "ilKodu": 21
+      },
+      {
+        "orgOid": "00000000001270",
+        "vdKodu": "021112",
+        "vdAdi": "EĞİL MALMÜD.",
+        "ilKodu": 21
+      },
+      {
+        "orgOid": "00000000001264",
+        "vdKodu": "021283",
+        "vdAdi": "ERGANİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 21
+      },
+      {
+        "orgOid": "00000000000881",
+        "vdKodu": "021251",
+        "vdAdi": "GÖKALP VERGİ DAİRESİ MÜD.",
+        "ilKodu": 21
+      },
+      {
+        "orgOid": "00000000001265",
+        "vdKodu": "021107",
+        "vdAdi": "HANİ MALMÜD.",
+        "ilKodu": 21
+      },
+      {
+        "orgOid": "00000000001266",
+        "vdKodu": "021108",
+        "vdAdi": "HAZRO MALMÜD.",
+        "ilKodu": 21
+      },
+      {
+        "orgOid": "00000000001271",
+        "vdKodu": "021113",
+        "vdAdi": "KOCAKÖY MALMÜD.",
+        "ilKodu": 21
+      },
+      {
+        "orgOid": "00000000001267",
+        "vdKodu": "021109",
+        "vdAdi": "KULP MALMÜD.",
+        "ilKodu": 21
+      },
+      {
+        "orgOid": "00000000001268",
+        "vdKodu": "021110",
+        "vdAdi": "LİCE MALMÜD.",
+        "ilKodu": 21
+      },
+      {
+        "orgOid": "00000000001269",
+        "vdKodu": "021111",
+        "vdAdi": "SİLVAN MALMÜD.",
+        "ilKodu": 21
+      },
+      {
+        "orgOid": "00000000000882",
+        "vdKodu": "021281",
+        "vdAdi": "SÜLEYMANNAZİF VERGİ DAİRESİ MÜD.",
+        "ilKodu": 21
+      }
+    ]
+  },
+  {
+    "il": "EDİRNE",
+    "ilceler": [
+      {
+        "orgOid": "00000000000883",
+        "vdKodu": "022201",
+        "vdAdi": "ARDA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 22
+      },
+      {
+        "orgOid": "00000000001272",
+        "vdKodu": "022101",
+        "vdAdi": "ENEZ MALMÜD.",
+        "ilKodu": 22
+      },
+      {
+        "orgOid": "00000000001741",
+        "vdKodu": "022263",
+        "vdAdi": "HAVSA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 22
+      },
+      {
+        "orgOid": "00000000001742",
+        "vdKodu": "022264",
+        "vdAdi": "İPSALA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 22
+      },
+      {
+        "orgOid": "00000000000885",
+        "vdKodu": "022261",
+        "vdAdi": "KEŞAN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 22
+      },
+      {
+        "orgOid": "00000000000884",
+        "vdKodu": "022260",
+        "vdAdi": "KIRKPINAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 22
+      },
+      {
+        "orgOid": "00000000001273",
+        "vdKodu": "022105",
+        "vdAdi": "LALAPAŞA MALMÜD.",
+        "ilKodu": 22
+      },
+      {
+        "orgOid": "00000000001274",
+        "vdKodu": "022106",
+        "vdAdi": "MERİÇ MALMÜD.",
+        "ilKodu": 22
+      },
+      {
+        "orgOid": "00000000001275",
+        "vdKodu": "022108",
+        "vdAdi": "SÜLOĞLU MALMÜD.",
+        "ilKodu": 22
+      },
+      {
+        "orgOid": "00000000000886",
+        "vdKodu": "022262",
+        "vdAdi": "UZUNKÖPRÜ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 22
+      }
+    ]
+  },
+  {
+    "il": "ELAZIĞ",
+    "ilceler": [
+      {
+        "orgOid": "00000000001276",
+        "vdKodu": "023101",
+        "vdAdi": "AĞIN MALMÜD.",
+        "ilKodu": 23
+      },
+      {
+        "orgOid": "00000000001285",
+        "vdKodu": "023110",
+        "vdAdi": "ALACAKAYA MALMÜD.",
+        "ilKodu": 23
+      },
+      {
+        "orgOid": "00000000001283",
+        "vdKodu": "023108",
+        "vdAdi": "ARICAK MALMÜD.",
+        "ilKodu": 23
+      },
+      {
+        "orgOid": "00000000001277",
+        "vdKodu": "023102",
+        "vdAdi": "BASKİL MALMÜD.",
+        "ilKodu": 23
+      },
+      {
+        "orgOid": "00000000000887",
+        "vdKodu": "023201",
+        "vdAdi": "HARPUT VERGİ DAİRESİ MÜD.",
+        "ilKodu": 23
+      },
+      {
+        "orgOid": "00000000000888",
+        "vdKodu": "023280",
+        "vdAdi": "HAZAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 23
+      },
+      {
+        "orgOid": "00000000001278",
+        "vdKodu": "023103",
+        "vdAdi": "KARAKOÇAN MALMÜD.",
+        "ilKodu": 23
+      },
+      {
+        "orgOid": "00000000001279",
+        "vdKodu": "023104",
+        "vdAdi": "KEBAN MALMÜD.",
+        "ilKodu": 23
+      },
+      {
+        "orgOid": "00000000001284",
+        "vdKodu": "023109",
+        "vdAdi": "KOVANCILAR MALMÜD.",
+        "ilKodu": 23
+      },
+      {
+        "orgOid": "00000000001280",
+        "vdKodu": "023105",
+        "vdAdi": "MADEN MALMÜD.",
+        "ilKodu": 23
+      },
+      {
+        "orgOid": "00000000001281",
+        "vdKodu": "023106",
+        "vdAdi": "PALU MALMÜD.",
+        "ilKodu": 23
+      },
+      {
+        "orgOid": "00000000001282",
+        "vdKodu": "023107",
+        "vdAdi": "SİVRİCE MALMÜD.",
+        "ilKodu": 23
+      }
+    ]
+  },
+  {
+    "il": "ERZİNCAN",
+    "ilceler": [
+      {
+        "orgOid": "00000000001286",
+        "vdKodu": "024101",
+        "vdAdi": "ÇAYIRLI MALMÜD.",
+        "ilKodu": 24
+      },
+      {
+        "orgOid": "00000000000889",
+        "vdKodu": "024260",
+        "vdAdi": "FEVZİPAŞA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 24
+      },
+      {
+        "orgOid": "00000000001287",
+        "vdKodu": "024102",
+        "vdAdi": "İLİÇ MALMÜD.",
+        "ilKodu": 24
+      },
+      {
+        "orgOid": "00000000001288",
+        "vdKodu": "024103",
+        "vdAdi": "KEMAH MALMÜD.",
+        "ilKodu": 24
+      },
+      {
+        "orgOid": "00000000001289",
+        "vdKodu": "024104",
+        "vdAdi": "KEMALİYE MALMÜD.",
+        "ilKodu": 24
+      },
+      {
+        "orgOid": "00000000001293",
+        "vdKodu": "024108",
+        "vdAdi": "OTLUKBELİ MALMÜD.",
+        "ilKodu": 24
+      },
+      {
+        "orgOid": "00000000001290",
+        "vdKodu": "024105",
+        "vdAdi": "REFAHİYE MALMÜD.",
+        "ilKodu": 24
+      },
+      {
+        "orgOid": "00000000001291",
+        "vdKodu": "024106",
+        "vdAdi": "TERCAN MALMÜD.",
+        "ilKodu": 24
+      },
+      {
+        "orgOid": "00000000001292",
+        "vdKodu": "024107",
+        "vdAdi": "ÜZÜMLÜ MALMÜD.",
+        "ilKodu": 24
+      }
+    ]
+  },
+  {
+    "il": "ERZURUM",
+    "ilceler": [
+      {
+        "orgOid": "00000000001294",
+        "vdKodu": "025101",
+        "vdAdi": "AŞKALE MALMÜD.",
+        "ilKodu": 25
+      },
+      {
+        "orgOid": "00000000001310",
+        "vdKodu": "025117",
+        "vdAdi": "AZİZİYE (ILICA) MALMÜD.",
+        "ilKodu": 25
+      },
+      {
+        "orgOid": "00000000000890",
+        "vdKodu": "025251",
+        "vdAdi": "AZİZİYE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 25
+      },
+      {
+        "orgOid": "00000000001295",
+        "vdKodu": "025102",
+        "vdAdi": "ÇAT MALMÜD.",
+        "ilKodu": 25
+      },
+      {
+        "orgOid": "00000000001296",
+        "vdKodu": "025103",
+        "vdAdi": "HINIS MALMÜD.",
+        "ilKodu": 25
+      },
+      {
+        "orgOid": "00000000001297",
+        "vdKodu": "025104",
+        "vdAdi": "HORASAN MALMÜD.",
+        "ilKodu": 25
+      },
+      {
+        "orgOid": "00000000001298",
+        "vdKodu": "025105",
+        "vdAdi": "İSPİR MALMÜD.",
+        "ilKodu": 25
+      },
+      {
+        "orgOid": "00000000001307",
+        "vdKodu": "025114",
+        "vdAdi": "KARAÇOBAN MALMÜD.",
+        "ilKodu": 25
+      },
+      {
+        "orgOid": "00000000001299",
+        "vdKodu": "025106",
+        "vdAdi": "KARAYAZI MALMÜD.",
+        "ilKodu": 25
+      },
+      {
+        "orgOid": "00000000000891",
+        "vdKodu": "025280",
+        "vdAdi": "KAZIMKARABEKİR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 25
+      },
+      {
+        "orgOid": "00000000001311",
+        "vdKodu": "025118",
+        "vdAdi": "KÖPRÜKÖY MALMÜD.",
+        "ilKodu": 25
+      },
+      {
+        "orgOid": "00000000001300",
+        "vdKodu": "025107",
+        "vdAdi": "NARMAN MALMÜD.",
+        "ilKodu": 25
+      },
+      {
+        "orgOid": "00000000001301",
+        "vdKodu": "025108",
+        "vdAdi": "OLTU MALMÜD.",
+        "ilKodu": 25
+      },
+      {
+        "orgOid": "00000000001302",
+        "vdKodu": "025109",
+        "vdAdi": "OLUR MALMÜD.",
+        "ilKodu": 25
+      },
+      {
+        "orgOid": "00000000001303",
+        "vdKodu": "025110",
+        "vdAdi": "PASİNLER MALMÜD.",
+        "ilKodu": 25
+      },
+      {
+        "orgOid": "00000000001309",
+        "vdKodu": "025116",
+        "vdAdi": "PAZARYOLU MALMÜD.",
+        "ilKodu": 25
+      },
+      {
+        "orgOid": "00000000001304",
+        "vdKodu": "025111",
+        "vdAdi": "ŞENKAYA MALMÜD.",
+        "ilKodu": 25
+      },
+      {
+        "orgOid": "00000000001305",
+        "vdKodu": "025112",
+        "vdAdi": "TEKMAN MALMÜD.",
+        "ilKodu": 25
+      },
+      {
+        "orgOid": "00000000001306",
+        "vdKodu": "025113",
+        "vdAdi": "TORTUM MALMÜD.",
+        "ilKodu": 25
+      },
+      {
+        "orgOid": "00000000001308",
+        "vdKodu": "025115",
+        "vdAdi": "UZUNDERE MALMÜD.",
+        "ilKodu": 25
+      }
+    ]
+  },
+  {
+    "il": "ESKİŞEHİR",
+    "ilceler": [
+      {
+        "orgOid": "00000000001316",
+        "vdKodu": "026107",
+        "vdAdi": "ALPU MALMÜD.",
+        "ilKodu": 26
+      },
+      {
+        "orgOid": "00000000001317",
+        "vdKodu": "026108",
+        "vdAdi": "BEYLİKOVA MALMÜD.",
+        "ilKodu": 26
+      },
+      {
+        "orgOid": "00000000002703",
+        "vdKodu": "026250",
+        "vdAdi": "ESKİŞEHİR VD. BAŞKANLIĞI",
+        "ilKodu": 26
+      },
+      {
+        "orgOid": "00000000001319",
+        "vdKodu": "026110",
+        "vdAdi": "GÜNYÜZÜ MALMÜD.",
+        "ilKodu": 26
+      },
+      {
+        "orgOid": "00000000001320",
+        "vdKodu": "026111",
+        "vdAdi": "HAN MALMÜD.",
+        "ilKodu": 26
+      },
+      {
+        "orgOid": "00000000001318",
+        "vdKodu": "026109",
+        "vdAdi": "İNÖNÜ MALMÜD.",
+        "ilKodu": 26
+      },
+      {
+        "orgOid": "00000000001312",
+        "vdKodu": "026102",
+        "vdAdi": "MAHMUDİYE MALMÜD.",
+        "ilKodu": 26
+      },
+      {
+        "orgOid": "00000000001321",
+        "vdKodu": "026112",
+        "vdAdi": "MİHALGAZİ MALMÜD.",
+        "ilKodu": 26
+      },
+      {
+        "orgOid": "00000000001313",
+        "vdKodu": "026103",
+        "vdAdi": "MİHALIÇÇIK MALMÜD.",
+        "ilKodu": 26
+      },
+      {
+        "orgOid": "00000000001314",
+        "vdKodu": "026104",
+        "vdAdi": "SARICAKAYA MALMÜD.",
+        "ilKodu": 26
+      },
+      {
+        "orgOid": "00000000001315",
+        "vdKodu": "026105",
+        "vdAdi": "SEYİTGAZİ MALMÜD.",
+        "ilKodu": 26
+      }
+    ]
+  },
+  {
+    "il": "GAZİANTEP",
+    "ilceler": [
+      {
+        "orgOid": "00000000001322",
+        "vdKodu": "027101",
+        "vdAdi": "ARABAN MALMÜD.",
+        "ilKodu": 27
+      },
+      {
+        "orgOid": "00000000001906",
+        "vdKodu": "027250",
+        "vdAdi": "GAZİANTEP İHTİSAS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 27
+      },
+      {
+        "orgOid": "00000000000899",
+        "vdKodu": "027254",
+        "vdAdi": "GAZİKENT VERGİ DAİRESİ MÜD.",
+        "ilKodu": 27
+      },
+      {
+        "orgOid": "00000000001745",
+        "vdKodu": "027203",
+        "vdAdi": "İSLAHİYE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 27
+      },
+      {
+        "orgOid": "00000000001325",
+        "vdKodu": "027107",
+        "vdAdi": "KARKAMIŞ MALMÜD.",
+        "ilKodu": 27
+      },
+      {
+        "orgOid": "00000000001681",
+        "vdKodu": "027255",
+        "vdAdi": "KOZANLI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 27
+      },
+      {
+        "orgOid": "00000000000895",
+        "vdKodu": "027202",
+        "vdAdi": "NİZİP VERGİ DAİRESİ MÜD.",
+        "ilKodu": 27
+      },
+      {
+        "orgOid": "00000000001326",
+        "vdKodu": "027108",
+        "vdAdi": "NURDAĞI MALMÜD.",
+        "ilKodu": 27
+      },
+      {
+        "orgOid": "00000000001323",
+        "vdKodu": "027105",
+        "vdAdi": "OĞUZELİ MALMÜD.",
+        "ilKodu": 27
+      },
+      {
+        "orgOid": "00000000000898",
+        "vdKodu": "027253",
+        "vdAdi": "ŞAHİNBEY VERGİ DAİRESİ MÜD.",
+        "ilKodu": 27
+      },
+      {
+        "orgOid": "00000000000897",
+        "vdKodu": "027252",
+        "vdAdi": "ŞEHİTKAMİL VERGİ DAİRESİ MÜD.",
+        "ilKodu": 27
+      },
+      {
+        "orgOid": "00000000000896",
+        "vdKodu": "027251",
+        "vdAdi": "SUBURCU VERGİ DAİRESİ MÜD.",
+        "ilKodu": 27
+      },
+      {
+        "orgOid": "00000000001324",
+        "vdKodu": "027106",
+        "vdAdi": "YAVUZELİ MALMÜD.",
+        "ilKodu": 27
+      }
+    ]
+  },
+  {
+    "il": "GİRESUN",
+    "ilceler": [
+      {
+        "orgOid": "00000000001327",
+        "vdKodu": "028101",
+        "vdAdi": "ALUCRA MALMÜD.",
+        "ilKodu": 28
+      },
+      {
+        "orgOid": "00000000001746",
+        "vdKodu": "028261",
+        "vdAdi": "BULANCAK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 28
+      },
+      {
+        "orgOid": "00000000001339",
+        "vdKodu": "028114",
+        "vdAdi": "ÇAMOLUK MALMÜD.",
+        "ilKodu": 28
+      },
+      {
+        "orgOid": "00000000001337",
+        "vdKodu": "028112",
+        "vdAdi": "ÇANAKÇI MALMÜD.",
+        "ilKodu": 28
+      },
+      {
+        "orgOid": "00000000001328",
+        "vdKodu": "028103",
+        "vdAdi": "DERELİ MALMÜD.",
+        "ilKodu": 28
+      },
+      {
+        "orgOid": "00000000001340",
+        "vdKodu": "028115",
+        "vdAdi": "DOĞANKENT MALMÜD.",
+        "ilKodu": 28
+      },
+      {
+        "orgOid": "00000000001329",
+        "vdKodu": "028104",
+        "vdAdi": "ESPİYE MALMÜD.",
+        "ilKodu": 28
+      },
+      {
+        "orgOid": "00000000001330",
+        "vdKodu": "028105",
+        "vdAdi": "EYNESİL MALMÜD.",
+        "ilKodu": 28
+      },
+      {
+        "orgOid": "00000000000900",
+        "vdKodu": "028260",
+        "vdAdi": "GİRESUN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 28
+      },
+      {
+        "orgOid": "00000000001331",
+        "vdKodu": "028106",
+        "vdAdi": "GÖRELE MALMÜD.",
+        "ilKodu": 28
+      },
+      {
+        "orgOid": "00000000001338",
+        "vdKodu": "028113",
+        "vdAdi": "GÜCE MALMÜD.",
+        "ilKodu": 28
+      },
+      {
+        "orgOid": "00000000001332",
+        "vdKodu": "028107",
+        "vdAdi": "KEŞAP MALMÜD.",
+        "ilKodu": 28
+      },
+      {
+        "orgOid": "00000000001335",
+        "vdKodu": "028110",
+        "vdAdi": "PİRAZİZ MALMÜD.",
+        "ilKodu": 28
+      },
+      {
+        "orgOid": "00000000001333",
+        "vdKodu": "028108",
+        "vdAdi": "ŞEBİNKARAHİSAR MALMÜD.",
+        "ilKodu": 28
+      },
+      {
+        "orgOid": "00000000001334",
+        "vdKodu": "028109",
+        "vdAdi": "TİREBOLU MALMÜD.",
+        "ilKodu": 28
+      },
+      {
+        "orgOid": "00000000001336",
+        "vdKodu": "028111",
+        "vdAdi": "YAĞLIDERE MALMÜD.",
+        "ilKodu": 28
+      }
+    ]
+  },
+  {
+    "il": "GÜMÜŞHANE",
+    "ilceler": [
+      {
+        "orgOid": "00000000000901",
+        "vdKodu": "029260",
+        "vdAdi": "GÜMÜŞHANE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 29
+      },
+      {
+        "orgOid": "00000000001341",
+        "vdKodu": "029102",
+        "vdAdi": "KELKİT MALMÜD.",
+        "ilKodu": 29
+      },
+      {
+        "orgOid": "00000000001344",
+        "vdKodu": "029107",
+        "vdAdi": "KÖSE MALMÜD.",
+        "ilKodu": 29
+      },
+      {
+        "orgOid": "00000000001345",
+        "vdKodu": "029108",
+        "vdAdi": "KÜRTÜN MALMÜD.",
+        "ilKodu": 29
+      },
+      {
+        "orgOid": "00000000001342",
+        "vdKodu": "029103",
+        "vdAdi": "ŞİRAN MALMÜD.",
+        "ilKodu": 29
+      },
+      {
+        "orgOid": "00000000001343",
+        "vdKodu": "029104",
+        "vdAdi": "TORUL MALMÜD.",
+        "ilKodu": 29
+      }
+    ]
+  },
+  {
+    "il": "HAKKARİ",
+    "ilceler": [
+      {
+        "orgOid": "00000000001346",
+        "vdKodu": "030102",
+        "vdAdi": "ÇUKURCA MALMÜD.",
+        "ilKodu": 30
+      },
+      {
+        "orgOid": "00000000001924",
+        "vdKodu": "030104",
+        "vdAdi": "DERECİK MALMÜD.",
+        "ilKodu": 30
+      },
+      {
+        "orgOid": "00000000000902",
+        "vdKodu": "030260",
+        "vdAdi": "HAKKARİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 30
+      },
+      {
+        "orgOid": "00000000001347",
+        "vdKodu": "030103",
+        "vdAdi": "ŞEMDİNLİ MALMÜD.",
+        "ilKodu": 30
+      },
+      {
+        "orgOid": "00000000001348",
+        "vdKodu": "030261",
+        "vdAdi": "YÜKSEKOVA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 30
+      }
+    ]
+  },
+  {
+    "il": "HATAY",
+    "ilceler": [
+      {
+        "orgOid": "00000000000903",
+        "vdKodu": "031201",
+        "vdAdi": "23 TEMMUZ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 31
+      },
+      {
+        "orgOid": "00000000000906",
+        "vdKodu": "031281",
+        "vdAdi": "AKDENİZ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 31
+      },
+      {
+        "orgOid": "00000000001349",
+        "vdKodu": "031101",
+        "vdAdi": "ALTINÖZÜ MALMÜD.",
+        "ilKodu": 31
+      },
+      {
+        "orgOid": "00000000001683",
+        "vdKodu": "031203",
+        "vdAdi": "ANTAKYA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 31
+      },
+      {
+        "orgOid": "00000000000907",
+        "vdKodu": "031290",
+        "vdAdi": "ASIM GÜNDÜZ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 31
+      },
+      {
+        "orgOid": "00000000001353",
+        "vdKodu": "031110",
+        "vdAdi": "BELEN MALMÜD.",
+        "ilKodu": 31
+      },
+      {
+        "orgOid": "00000000001094",
+        "vdKodu": "031260",
+        "vdAdi": "DÖRTYOL VERGİ DAİRESİ MÜD.",
+        "ilKodu": 31
+      },
+      {
+        "orgOid": "00000000001352",
+        "vdKodu": "031109",
+        "vdAdi": "ERZİN MALMÜD.",
+        "ilKodu": 31
+      },
+      {
+        "orgOid": "00000000001350",
+        "vdKodu": "031103",
+        "vdAdi": "HASSA MALMÜD.",
+        "ilKodu": 31
+      },
+      {
+        "orgOid": "00000000000904",
+        "vdKodu": "031261",
+        "vdAdi": "KIRIKHAN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 31
+      },
+      {
+        "orgOid": "00000000001354",
+        "vdKodu": "031111",
+        "vdAdi": "KUMLU MALMÜD.",
+        "ilKodu": 31
+      },
+      {
+        "orgOid": "00000000001747",
+        "vdKodu": "031262",
+        "vdAdi": "REYHANLI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 31
+      },
+      {
+        "orgOid": "00000000001682",
+        "vdKodu": "031202",
+        "vdAdi": "SAHİL VERGİ DAİRESİ MÜD.",
+        "ilKodu": 31
+      },
+      {
+        "orgOid": "00000000001748",
+        "vdKodu": "031263",
+        "vdAdi": "SAMANDAĞ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 31
+      },
+      {
+        "orgOid": "00000000000905",
+        "vdKodu": "031280",
+        "vdAdi": "ŞÜKRÜKANATLI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 31
+      },
+      {
+        "orgOid": "00000000001351",
+        "vdKodu": "031108",
+        "vdAdi": "YAYLADAĞ MALMÜD.",
+        "ilKodu": 31
+      }
+    ]
+  },
+  {
+    "il": "ISPARTA",
+    "ilceler": [
+      {
+        "orgOid": "00000000001362",
+        "vdKodu": "032110",
+        "vdAdi": "AKSU (ISPARTA) MALMÜD.",
+        "ilKodu": 32
+      },
+      {
+        "orgOid": "00000000001355",
+        "vdKodu": "032101",
+        "vdAdi": "ATABEY MALMÜD.",
+        "ilKodu": 32
+      },
+      {
+        "orgOid": "00000000000908",
+        "vdKodu": "032201",
+        "vdAdi": "DAVRAZ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 32
+      },
+      {
+        "orgOid": "00000000001749",
+        "vdKodu": "032261",
+        "vdAdi": "EĞİRDİR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 32
+      },
+      {
+        "orgOid": "00000000001356",
+        "vdKodu": "032103",
+        "vdAdi": "GELENDOST MALMÜD.",
+        "ilKodu": 32
+      },
+      {
+        "orgOid": "00000000001363",
+        "vdKodu": "032111",
+        "vdAdi": "GÖNEN (ISPARTA) MALMÜD.",
+        "ilKodu": 32
+      },
+      {
+        "orgOid": "00000000000909",
+        "vdKodu": "032260",
+        "vdAdi": "KAYMAKKAPI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 32
+      },
+      {
+        "orgOid": "00000000001357",
+        "vdKodu": "032104",
+        "vdAdi": "KEÇİBORLU MALMÜD.",
+        "ilKodu": 32
+      },
+      {
+        "orgOid": "00000000001360",
+        "vdKodu": "032107",
+        "vdAdi": "ŞARKİKARAAĞAÇ MALMÜD.",
+        "ilKodu": 32
+      },
+      {
+        "orgOid": "00000000001358",
+        "vdKodu": "032105",
+        "vdAdi": "SENİRKENT MALMÜD.",
+        "ilKodu": 32
+      },
+      {
+        "orgOid": "00000000001359",
+        "vdKodu": "032106",
+        "vdAdi": "SÜTÇÜLER MALMÜD.",
+        "ilKodu": 32
+      },
+      {
+        "orgOid": "00000000001361",
+        "vdKodu": "032108",
+        "vdAdi": "ULUBORLU MALMÜD.",
+        "ilKodu": 32
+      },
+      {
+        "orgOid": "00000000001750",
+        "vdKodu": "032262",
+        "vdAdi": "YALVAÇ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 32
+      },
+      {
+        "orgOid": "00000000001364",
+        "vdKodu": "032112",
+        "vdAdi": "YENİŞARBADEMLİ M MALMÜD.",
+        "ilKodu": 32
+      }
+    ]
+  },
+  {
+    "il": "MERSİN",
+    "ilceler": [
+      {
+        "orgOid": "00000000001753",
+        "vdKodu": "033203",
+        "vdAdi": "ANAMUR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 33
+      },
+      {
+        "orgOid": "00000000001366",
+        "vdKodu": "033107",
+        "vdAdi": "AYDINCIK (İÇEL) MALMÜD.",
+        "ilKodu": 33
+      },
+      {
+        "orgOid": "00000000001367",
+        "vdKodu": "033108",
+        "vdAdi": "BOZYAZI MALMÜD.",
+        "ilKodu": 33
+      },
+      {
+        "orgOid": "00000000001368",
+        "vdKodu": "033109",
+        "vdAdi": "ÇAMLIYAYLA MALMÜD.",
+        "ilKodu": 33
+      },
+      {
+        "orgOid": "00000000000910",
+        "vdKodu": "033201",
+        "vdAdi": "ERDEMLİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 33
+      },
+      {
+        "orgOid": "00000000001365",
+        "vdKodu": "033103",
+        "vdAdi": "GÜLNAR MALMÜD.",
+        "ilKodu": 33
+      },
+      {
+        "orgOid": "00000000000913",
+        "vdKodu": "033250",
+        "vdAdi": "İSTİKLAL VERGİ DAİRESİ MÜD.",
+        "ilKodu": 33
+      },
+      {
+        "orgOid": "00000000000911",
+        "vdKodu": "033204",
+        "vdAdi": "KIZILMURAT VERGİ DAİRESİ MÜD.",
+        "ilKodu": 33
+      },
+      {
+        "orgOid": "00000000000915",
+        "vdKodu": "033254",
+        "vdAdi": "LİMAN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 33
+      },
+      {
+        "orgOid": "00000000001913",
+        "vdKodu": "033256",
+        "vdAdi": "MERSİN İHTİSAS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 33
+      },
+      {
+        "orgOid": "00000000001751",
+        "vdKodu": "033257",
+        "vdAdi": "MUT VERGİ DAİRESİ MÜD.",
+        "ilKodu": 33
+      },
+      {
+        "orgOid": "00000000000912",
+        "vdKodu": "033205",
+        "vdAdi": "ŞEHİTKERİM VERGİ DAİRESİ MÜD.",
+        "ilKodu": 33
+      },
+      {
+        "orgOid": "00000000001752",
+        "vdKodu": "033202",
+        "vdAdi": "SİLİFKE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 33
+      },
+      {
+        "orgOid": "00000000001684",
+        "vdKodu": "033255",
+        "vdAdi": "TOROS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 33
+      },
+      {
+        "orgOid": "00000000000914",
+        "vdKodu": "033252",
+        "vdAdi": "URAY VERGİ DAİRESİ MÜD.",
+        "ilKodu": 33
+      }
+    ]
+  },
+  {
+    "il": "İSTANBUL",
+    "ilceler": [
+      {
+        "orgOid": "00000000001758",
+        "vdKodu": "034295",
+        "vdAdi": "ADALAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000001911",
+        "vdKodu": "034223",
+        "vdAdi": "ALEMDAĞ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000931",
+        "vdKodu": "034244",
+        "vdAdi": "ANADOLU KURUMLAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000972",
+        "vdKodu": "034291",
+        "vdAdi": "ATIŞALANI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000975",
+        "vdKodu": "034294",
+        "vdAdi": "AVCILAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000967",
+        "vdKodu": "034284",
+        "vdAdi": "BAKIRKÖY VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000001931",
+        "vdKodu": "034299",
+        "vdAdi": "BAŞAKŞEHİR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000948",
+        "vdKodu": "034264",
+        "vdAdi": "BAYRAMPAŞA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000938",
+        "vdKodu": "034251",
+        "vdAdi": "BEŞİKTAŞ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000949",
+        "vdKodu": "034265",
+        "vdAdi": "BEYAZIT VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000965",
+        "vdKodu": "034281",
+        "vdAdi": "BEYKOZ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "0beao0p38d111k",
+        "vdKodu": "034297",
+        "vdAdi": "BEYLİKDÜZÜ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000950",
+        "vdKodu": "034266",
+        "vdAdi": "BEYOĞLU VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000919",
+        "vdKodu": "034231",
+        "vdAdi": "BOĞAZİÇİ KUR. VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000917",
+        "vdKodu": "034204",
+        "vdAdi": "BÜYÜKÇEKMECE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000002658",
+        "vdKodu": "034230",
+        "vdAdi": "Büyük Mükellefler VD. BAŞKANLIĞI",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000001904",
+        "vdKodu": "034222",
+        "vdAdi": "ÇAMLICA İHTİSAS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000922",
+        "vdKodu": "034234",
+        "vdAdi": "DAVUTPAŞA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000941",
+        "vdKodu": "034255",
+        "vdAdi": "ERENKÖY VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "04ed9ok7ma10zv",
+        "vdKodu": "034235",
+        "vdAdi": "ESENLER VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000001920",
+        "vdKodu": "034298",
+        "vdAdi": "ESENYURT VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000923",
+        "vdKodu": "034236",
+        "vdAdi": "FATİH VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000953",
+        "vdKodu": "034269",
+        "vdAdi": "GAZİOSMANPAŞA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000954",
+        "vdKodu": "034270",
+        "vdAdi": "GÖZTEPE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000945",
+        "vdKodu": "034261",
+        "vdAdi": "GÜNEŞLİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000943",
+        "vdKodu": "034259",
+        "vdAdi": "GÜNGÖREN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000001900",
+        "vdKodu": "034220",
+        "vdAdi": "HALİÇ İHTİSAS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000962",
+        "vdKodu": "034278",
+        "vdAdi": "HALKALI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000001756",
+        "vdKodu": "034256",
+        "vdAdi": "HİSAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000955",
+        "vdKodu": "034271",
+        "vdAdi": "HOCAPAŞA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000936",
+        "vdKodu": "034249",
+        "vdAdi": "İKİTELLİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000956",
+        "vdKodu": "034272",
+        "vdAdi": "KADIKÖY VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000963",
+        "vdKodu": "034279",
+        "vdAdi": "KAĞITHANE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000968",
+        "vdKodu": "034285",
+        "vdAdi": "KARTAL VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000940",
+        "vdKodu": "034254",
+        "vdAdi": "KASIMPAŞA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000957",
+        "vdKodu": "034273",
+        "vdAdi": "KOCAMUSTAFAPAŞA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000944",
+        "vdKodu": "034260",
+        "vdAdi": "KOCASİNAN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000933",
+        "vdKodu": "034246",
+        "vdAdi": "KOZYATAĞI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000976",
+        "vdKodu": "034296",
+        "vdAdi": "KÜÇÜKÇEKMECE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000924",
+        "vdKodu": "034237",
+        "vdAdi": "KÜÇÜKKÖY VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000946",
+        "vdKodu": "034262",
+        "vdAdi": "KÜÇÜKYALI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000920",
+        "vdKodu": "034232",
+        "vdAdi": "MARMARA KUR. VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000934",
+        "vdKodu": "034247",
+        "vdAdi": "MASLAK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000958",
+        "vdKodu": "034274",
+        "vdAdi": "MECİDİYEKÖY VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000926",
+        "vdKodu": "034239",
+        "vdAdi": "MERTER VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000001685",
+        "vdKodu": "034287",
+        "vdAdi": "NAKİL VASITA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000947",
+        "vdKodu": "034263",
+        "vdAdi": "PENDİK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000001757",
+        "vdKodu": "034258",
+        "vdAdi": "RIHTIM VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000970",
+        "vdKodu": "034288",
+        "vdAdi": "SARIGAZİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000966",
+        "vdKodu": "034283",
+        "vdAdi": "SARIYER VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000001754",
+        "vdKodu": "034205",
+        "vdAdi": "ŞİLE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000916",
+        "vdKodu": "034203",
+        "vdAdi": "SİLİVRİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000960",
+        "vdKodu": "034276",
+        "vdAdi": "ŞİŞLİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000929",
+        "vdKodu": "034242",
+        "vdAdi": "SULTANBEYLİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000942",
+        "vdKodu": "034257",
+        "vdAdi": "TUNA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000932",
+        "vdKodu": "034245",
+        "vdAdi": "TUZLA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000939",
+        "vdKodu": "034252",
+        "vdAdi": "ÜMRANİYE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000961",
+        "vdKodu": "034277",
+        "vdAdi": "ÜSKÜDAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000001903",
+        "vdKodu": "034221",
+        "vdAdi": "VATAN İHTİSAS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000973",
+        "vdKodu": "034292",
+        "vdAdi": "YAKACIK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000001755",
+        "vdKodu": "034253",
+        "vdAdi": "YEDİTEPE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000974",
+        "vdKodu": "034293",
+        "vdAdi": "YENİBOSNA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000001919",
+        "vdKodu": "034224",
+        "vdAdi": "YENİKAPI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000964",
+        "vdKodu": "034280",
+        "vdAdi": "ZEYTİNBURNU VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      },
+      {
+        "orgOid": "00000000000935",
+        "vdKodu": "034248",
+        "vdAdi": "ZİNCİRLİKUYU VERGİ DAİRESİ MÜD.",
+        "ilKodu": 34
+      }
+    ]
+  },
+  {
+    "il": "İZMİR",
+    "ilceler": [
+      {
+        "orgOid": "00000000001767",
+        "vdKodu": "035251",
+        "vdAdi": "9 EYLÜL VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000000981",
+        "vdKodu": "035213",
+        "vdAdi": "ALİAĞA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000000994",
+        "vdKodu": "035266",
+        "vdAdi": "BALÇOVA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000001760",
+        "vdKodu": "035201",
+        "vdAdi": "BAYINDIR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000001768",
+        "vdKodu": "035254",
+        "vdAdi": "BELKAHVE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000000977",
+        "vdKodu": "035202",
+        "vdAdi": "BERGAMA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000001371",
+        "vdKodu": "035120",
+        "vdAdi": "BEYDAĞ MALMÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000000992",
+        "vdKodu": "035264",
+        "vdAdi": "BORNOVA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000001922",
+        "vdKodu": "035270",
+        "vdAdi": "ÇAKABEY İHTİSAS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000001766",
+        "vdKodu": "035212",
+        "vdAdi": "ÇEŞME VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000000997",
+        "vdKodu": "035269",
+        "vdAdi": "ÇİĞLİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000001759",
+        "vdKodu": "035105",
+        "vdAdi": "DİKİLİ MALMÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000000996",
+        "vdKodu": "035268",
+        "vdAdi": "EGE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000001095",
+        "vdKodu": "035106",
+        "vdAdi": "FOÇA MALMÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000000995",
+        "vdKodu": "035267",
+        "vdAdi": "GAZİEMİR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000000991",
+        "vdKodu": "035263",
+        "vdAdi": "HASAN TAHSİN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000001907",
+        "vdKodu": "035250",
+        "vdAdi": "İZMİR İHTİSAS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000000990",
+        "vdKodu": "035261",
+        "vdAdi": "KADİFEKALE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000001369",
+        "vdKodu": "035107",
+        "vdAdi": "KARABURUN MALMÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000000985",
+        "vdKodu": "035256",
+        "vdAdi": "KARŞIYAKA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000000980",
+        "vdKodu": "035207",
+        "vdAdi": "KEMALPAŞA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000000986",
+        "vdKodu": "035257",
+        "vdAdi": "KEMERALTI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000001764",
+        "vdKodu": "035210",
+        "vdAdi": "KINIK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000001765",
+        "vdKodu": "035211",
+        "vdAdi": "KİRAZ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000000987",
+        "vdKodu": "035258",
+        "vdAdi": "KONAK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000000988",
+        "vdKodu": "035259",
+        "vdAdi": "KORDON VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000000982",
+        "vdKodu": "035215",
+        "vdAdi": "MENDERES VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000001761",
+        "vdKodu": "035203",
+        "vdAdi": "MENEMEN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000000978",
+        "vdKodu": "035204",
+        "vdAdi": "ÖDEMİŞ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000001370",
+        "vdKodu": "035114",
+        "vdAdi": "SEFERİHİSAR MALMÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000001763",
+        "vdKodu": "035209",
+        "vdAdi": "SELÇUK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000000989",
+        "vdKodu": "035260",
+        "vdAdi": "ŞİRİNYER VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000001686",
+        "vdKodu": "035262",
+        "vdAdi": "TAŞITLAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000001096",
+        "vdKodu": "035205",
+        "vdAdi": "TİRE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000000979",
+        "vdKodu": "035206",
+        "vdAdi": "TORBALI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000001762",
+        "vdKodu": "035208",
+        "vdAdi": "URLA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      },
+      {
+        "orgOid": "00000000000983",
+        "vdKodu": "035252",
+        "vdAdi": "YAMANLAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 35
+      }
+    ]
+  },
+  {
+    "il": "KARS",
+    "ilceler": [
+      {
+        "orgOid": "00000000001378",
+        "vdKodu": "036115",
+        "vdAdi": "AKYAKA MALMÜD.",
+        "ilKodu": 36
+      },
+      {
+        "orgOid": "00000000001372",
+        "vdKodu": "036103",
+        "vdAdi": "ARPAÇAY MALMÜD.",
+        "ilKodu": 36
+      },
+      {
+        "orgOid": "00000000001373",
+        "vdKodu": "036105",
+        "vdAdi": "DİGOR MALMÜD.",
+        "ilKodu": 36
+      },
+      {
+        "orgOid": "00000000001374",
+        "vdKodu": "036109",
+        "vdAdi": "KAĞIZMAN MALMÜD.",
+        "ilKodu": 36
+      },
+      {
+        "orgOid": "00000000000998",
+        "vdKodu": "036260",
+        "vdAdi": "KARS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 36
+      },
+      {
+        "orgOid": "00000000001375",
+        "vdKodu": "036111",
+        "vdAdi": "SARIKAMIŞ MALMÜD.",
+        "ilKodu": 36
+      },
+      {
+        "orgOid": "00000000001376",
+        "vdKodu": "036112",
+        "vdAdi": "SELİM MALMÜD.",
+        "ilKodu": 36
+      },
+      {
+        "orgOid": "00000000001377",
+        "vdKodu": "036113",
+        "vdAdi": "SUSUZ MALMÜD.",
+        "ilKodu": 36
+      }
+    ]
+  },
+  {
+    "il": "KASTAMONU",
+    "ilceler": [
+      {
+        "orgOid": "00000000001388",
+        "vdKodu": "037112",
+        "vdAdi": "ABANA MALMÜD.",
+        "ilKodu": 37
+      },
+      {
+        "orgOid": "00000000001392",
+        "vdKodu": "037116",
+        "vdAdi": "AĞLI MALMÜD.",
+        "ilKodu": 37
+      },
+      {
+        "orgOid": "00000000001379",
+        "vdKodu": "037101",
+        "vdAdi": "ARAÇ MALMÜD.",
+        "ilKodu": 37
+      },
+      {
+        "orgOid": "00000000001380",
+        "vdKodu": "037102",
+        "vdAdi": "AZDAVAY MALMÜD.",
+        "ilKodu": 37
+      },
+      {
+        "orgOid": "00000000001381",
+        "vdKodu": "037103",
+        "vdAdi": "BOZKURT (KASTAMONU) MALMÜD.",
+        "ilKodu": 37
+      },
+      {
+        "orgOid": "00000000001383",
+        "vdKodu": "037105",
+        "vdAdi": "ÇATALZEYTİN MALMÜD.",
+        "ilKodu": 37
+      },
+      {
+        "orgOid": "00000000001382",
+        "vdKodu": "037104",
+        "vdAdi": "CİDE MALMÜD.",
+        "ilKodu": 37
+      },
+      {
+        "orgOid": "00000000001384",
+        "vdKodu": "037106",
+        "vdAdi": "DADAY MALMÜD.",
+        "ilKodu": 37
+      },
+      {
+        "orgOid": "00000000001385",
+        "vdKodu": "037107",
+        "vdAdi": "DEVREKANİ MALMÜD.",
+        "ilKodu": 37
+      },
+      {
+        "orgOid": "00000000001393",
+        "vdKodu": "037117",
+        "vdAdi": "DOĞANYURT MALMÜD.",
+        "ilKodu": 37
+      },
+      {
+        "orgOid": "00000000001394",
+        "vdKodu": "037118",
+        "vdAdi": "HANÖNÜ MALMÜD.",
+        "ilKodu": 37
+      },
+      {
+        "orgOid": "00000000001389",
+        "vdKodu": "037113",
+        "vdAdi": "İHSANGAZİ MALMÜD.",
+        "ilKodu": 37
+      },
+      {
+        "orgOid": "00000000001386",
+        "vdKodu": "037108",
+        "vdAdi": "İNEBOLU MALMÜD.",
+        "ilKodu": 37
+      },
+      {
+        "orgOid": "00000000000999",
+        "vdKodu": "037260",
+        "vdAdi": "KASTAMONU VERGİ DAİRESİ MÜD.",
+        "ilKodu": 37
+      },
+      {
+        "orgOid": "00000000001387",
+        "vdKodu": "037109",
+        "vdAdi": "KÜRE MALMÜD.",
+        "ilKodu": 37
+      },
+      {
+        "orgOid": "00000000001390",
+        "vdKodu": "037114",
+        "vdAdi": "PINARBAŞI (KASTAMONU) MALMÜD.",
+        "ilKodu": 37
+      },
+      {
+        "orgOid": "00000000001391",
+        "vdKodu": "037115",
+        "vdAdi": "ŞENPAZAR MALMÜD.",
+        "ilKodu": 37
+      },
+      {
+        "orgOid": "00000000001395",
+        "vdKodu": "037119",
+        "vdAdi": "SEYDİLER MALMÜD.",
+        "ilKodu": 37
+      },
+      {
+        "orgOid": "00000000001770",
+        "vdKodu": "037262",
+        "vdAdi": "TAŞKÖPRÜ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 37
+      },
+      {
+        "orgOid": "00000000001769",
+        "vdKodu": "037261",
+        "vdAdi": "TOSYA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 37
+      }
+    ]
+  },
+  {
+    "il": "KAYSERİ",
+    "ilceler": [
+      {
+        "orgOid": "00000000001403",
+        "vdKodu": "038111",
+        "vdAdi": "AKKIŞLA MALMÜD.",
+        "ilKodu": 38
+      },
+      {
+        "orgOid": "00000000001773",
+        "vdKodu": "038203",
+        "vdAdi": "BÜNYAN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 38
+      },
+      {
+        "orgOid": "00000000001771",
+        "vdKodu": "038201",
+        "vdAdi": "DEVELİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 38
+      },
+      {
+        "orgOid": "00000000001001",
+        "vdKodu": "038252",
+        "vdAdi": "ERCİYES VERGİ DAİRESİ MÜD.",
+        "ilKodu": 38
+      },
+      {
+        "orgOid": "00000000001396",
+        "vdKodu": "038103",
+        "vdAdi": "FELAHİYE MALMÜD.",
+        "ilKodu": 38
+      },
+      {
+        "orgOid": "00000000001002",
+        "vdKodu": "038254",
+        "vdAdi": "GEVHER NESİBE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 38
+      },
+      {
+        "orgOid": "00000000001404",
+        "vdKodu": "038113",
+        "vdAdi": "HACILAR MALMÜD.",
+        "ilKodu": 38
+      },
+      {
+        "orgOid": "00000000001397",
+        "vdKodu": "038104",
+        "vdAdi": "İNCESU MALMÜD.",
+        "ilKodu": 38
+      },
+      {
+        "orgOid": "00000000001687",
+        "vdKodu": "038253",
+        "vdAdi": "KALEÖNÜ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 38
+      },
+      {
+        "orgOid": "00000000001908",
+        "vdKodu": "038250",
+        "vdAdi": "KAYSERİ İHTİSAS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 38
+      },
+      {
+        "orgOid": "00000000001000",
+        "vdKodu": "038251",
+        "vdAdi": "MİMARSİNAN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 38
+      },
+      {
+        "orgOid": "00000000001405",
+        "vdKodu": "038114",
+        "vdAdi": "ÖZVATAN MALMÜD.",
+        "ilKodu": 38
+      },
+      {
+        "orgOid": "00000000001772",
+        "vdKodu": "038202",
+        "vdAdi": "PINARBAŞI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 38
+      },
+      {
+        "orgOid": "00000000001398",
+        "vdKodu": "038106",
+        "vdAdi": "SARIOĞLAN MALMÜD.",
+        "ilKodu": 38
+      },
+      {
+        "orgOid": "00000000001399",
+        "vdKodu": "038107",
+        "vdAdi": "SARIZ MALMÜD.",
+        "ilKodu": 38
+      },
+      {
+        "orgOid": "00000000001400",
+        "vdKodu": "038108",
+        "vdAdi": "TOMARZA MALMÜD.",
+        "ilKodu": 38
+      },
+      {
+        "orgOid": "00000000001401",
+        "vdKodu": "038109",
+        "vdAdi": "YAHYALI MALMÜD.",
+        "ilKodu": 38
+      },
+      {
+        "orgOid": "00000000001402",
+        "vdKodu": "038110",
+        "vdAdi": "YEŞİLHİSAR MALMÜD.",
+        "ilKodu": 38
+      }
+    ]
+  },
+  {
+    "il": "KIRKLARELİ",
+    "ilceler": [
+      {
+        "orgOid": "00000000001774",
+        "vdKodu": "039262",
+        "vdAdi": "BABAESKİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 39
+      },
+      {
+        "orgOid": "00000000001406",
+        "vdKodu": "039102",
+        "vdAdi": "DEMİRKÖY MALMÜD.",
+        "ilKodu": 39
+      },
+      {
+        "orgOid": "00000000001003",
+        "vdKodu": "039260",
+        "vdAdi": "KIRKLARELİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 39
+      },
+      {
+        "orgOid": "00000000001407",
+        "vdKodu": "039103",
+        "vdAdi": "KOFCAZ MALMÜD.",
+        "ilKodu": 39
+      },
+      {
+        "orgOid": "00000000001004",
+        "vdKodu": "039261",
+        "vdAdi": "LÜLEBURGAZ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 39
+      },
+      {
+        "orgOid": "00000000001408",
+        "vdKodu": "039105",
+        "vdAdi": "PEHLİVANKÖY MALMÜD.",
+        "ilKodu": 39
+      },
+      {
+        "orgOid": "00000000001097",
+        "vdKodu": "039106",
+        "vdAdi": "PINARHİSAR MALMÜD.",
+        "ilKodu": 39
+      },
+      {
+        "orgOid": "00000000001409",
+        "vdKodu": "039107",
+        "vdAdi": "VİZE MALMÜD.",
+        "ilKodu": 39
+      }
+    ]
+  },
+  {
+    "il": "KIRŞEHİR",
+    "ilceler": [
+      {
+        "orgOid": "00000000001413",
+        "vdKodu": "040105",
+        "vdAdi": "AKÇAKENT MALMÜD.",
+        "ilKodu": 40
+      },
+      {
+        "orgOid": "00000000001412",
+        "vdKodu": "040104",
+        "vdAdi": "AKPINAR MALMÜD.",
+        "ilKodu": 40
+      },
+      {
+        "orgOid": "00000000001414",
+        "vdKodu": "040106",
+        "vdAdi": "BOZTEPE MALMÜD.",
+        "ilKodu": 40
+      },
+      {
+        "orgOid": "00000000001410",
+        "vdKodu": "040101",
+        "vdAdi": "ÇİÇEKDAĞI MALMÜD.",
+        "ilKodu": 40
+      },
+      {
+        "orgOid": "00000000001098",
+        "vdKodu": "040261",
+        "vdAdi": "KAMAN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 40
+      },
+      {
+        "orgOid": "00000000001005",
+        "vdKodu": "040260",
+        "vdAdi": "KIRŞEHİR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 40
+      },
+      {
+        "orgOid": "00000000001411",
+        "vdKodu": "040103",
+        "vdAdi": "MUCUR MALMÜD.",
+        "ilKodu": 40
+      }
+    ]
+  },
+  {
+    "il": "KOCAELİ",
+    "ilceler": [
+      {
+        "orgOid": "00000000001688",
+        "vdKodu": "041290",
+        "vdAdi": "ACISU VERGİ DAİRESİ MÜD.",
+        "ilKodu": 41
+      },
+      {
+        "orgOid": "00000000001012",
+        "vdKodu": "041253",
+        "vdAdi": "ALEMDAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 41
+      },
+      {
+        "orgOid": "00000000001010",
+        "vdKodu": "041207",
+        "vdAdi": "DERİNCE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 41
+      },
+      {
+        "orgOid": "00000000001914",
+        "vdKodu": "041254",
+        "vdAdi": "GEBZE İHTİSAS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 41
+      },
+      {
+        "orgOid": "00000000001008",
+        "vdKodu": "041204",
+        "vdAdi": "GÖLCÜK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 41
+      },
+      {
+        "orgOid": "00000000001007",
+        "vdKodu": "041203",
+        "vdAdi": "İLYASBEY VERGİ DAİRESİ MÜD.",
+        "ilKodu": 41
+      },
+      {
+        "orgOid": "00000000001415",
+        "vdKodu": "041103",
+        "vdAdi": "KANDIRA MALMÜD.",
+        "ilKodu": 41
+      },
+      {
+        "orgOid": "00000000001775",
+        "vdKodu": "041205",
+        "vdAdi": "KARAMÜRSEL VERGİ DAİRESİ MÜD.",
+        "ilKodu": 41
+      },
+      {
+        "orgOid": "00000000001909",
+        "vdKodu": "041250",
+        "vdAdi": "KOCAELİ İHTİSAS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 41
+      },
+      {
+        "orgOid": "00000000001009",
+        "vdKodu": "041206",
+        "vdAdi": "KÖRFEZ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 41
+      },
+      {
+        "orgOid": "00000000001011",
+        "vdKodu": "041252",
+        "vdAdi": "TEPECİK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 41
+      },
+      {
+        "orgOid": "00000000001006",
+        "vdKodu": "041202",
+        "vdAdi": "ULUÇINAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 41
+      }
+    ]
+  },
+  {
+    "il": "KONYA",
+    "ilceler": [
+      {
+        "orgOid": "00000000001428",
+        "vdKodu": "042124",
+        "vdAdi": "AHIRLI MALMÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001423",
+        "vdKodu": "042118",
+        "vdAdi": "AKÖREN MALMÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001013",
+        "vdKodu": "042201",
+        "vdAdi": "AKŞEHİR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001689",
+        "vdKodu": "042254",
+        "vdAdi": "ALAADDİN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001424",
+        "vdKodu": "042119",
+        "vdAdi": "ALTINEKİN MALMÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001776",
+        "vdKodu": "042204",
+        "vdAdi": "BEYŞEHİR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001416",
+        "vdKodu": "042103",
+        "vdAdi": "BOZKIR MALMÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001429",
+        "vdKodu": "042125",
+        "vdAdi": "ÇELTİK MALMÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001777",
+        "vdKodu": "042205",
+        "vdAdi": "CİHANBEYLİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001778",
+        "vdKodu": "042206",
+        "vdAdi": "ÇUMRA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001430",
+        "vdKodu": "042126",
+        "vdAdi": "DERBENT MALMÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001425",
+        "vdKodu": "042121",
+        "vdAdi": "DEREBUCAK MALMÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001417",
+        "vdKodu": "042106",
+        "vdAdi": "DOĞANHİSAR MALMÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001431",
+        "vdKodu": "042127",
+        "vdAdi": "EMİRGAZİ MALMÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001014",
+        "vdKodu": "042202",
+        "vdAdi": "EREĞLİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001432",
+        "vdKodu": "042128",
+        "vdAdi": "GÜNEYSINIR MALMÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001418",
+        "vdKodu": "042109",
+        "vdAdi": "HADIM MALMÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001433",
+        "vdKodu": "042129",
+        "vdAdi": "HALKAPINAR MALMÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001426",
+        "vdKodu": "042122",
+        "vdAdi": "HÜYÜK MALMÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001779",
+        "vdKodu": "042208",
+        "vdAdi": "ILGIN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001419",
+        "vdKodu": "042111",
+        "vdAdi": "KADINHAN MALMÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001420",
+        "vdKodu": "042210",
+        "vdAdi": "KARAPINAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001910",
+        "vdKodu": "042250",
+        "vdAdi": "KONYA İHTİSAS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001100",
+        "vdKodu": "042209",
+        "vdAdi": "KULU VERGİ DAİRESİ MÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001017",
+        "vdKodu": "042253",
+        "vdAdi": "MERAM VERGİ DAİRESİ MÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001016",
+        "vdKodu": "042252",
+        "vdAdi": "MEVLANA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001421",
+        "vdKodu": "042115",
+        "vdAdi": "SARAYÖNÜ MALMÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001015",
+        "vdKodu": "042251",
+        "vdAdi": "SELÇUK (KONYA) VERGİ DAİRESİ MÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001099",
+        "vdKodu": "042207",
+        "vdAdi": "SEYDİŞEHİR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001427",
+        "vdKodu": "042123",
+        "vdAdi": "TAŞKENT MALMÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001434",
+        "vdKodu": "042130",
+        "vdAdi": "TUZLUKCU MALMÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001435",
+        "vdKodu": "042131",
+        "vdAdi": "YALIHÜYÜK MALMÜD.",
+        "ilKodu": 42
+      },
+      {
+        "orgOid": "00000000001422",
+        "vdKodu": "042117",
+        "vdAdi": "YUNAK MALMÜD.",
+        "ilKodu": 42
+      }
+    ]
+  },
+  {
+    "il": "KÜTAHYA",
+    "ilceler": [
+      {
+        "orgOid": "00000000001018",
+        "vdKodu": "043201",
+        "vdAdi": "30 AĞUSTOS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 43
+      },
+      {
+        "orgOid": "00000000001436",
+        "vdKodu": "043101",
+        "vdAdi": "ALTINTAŞ MALMÜD.",
+        "ilKodu": 43
+      },
+      {
+        "orgOid": "00000000001438",
+        "vdKodu": "043107",
+        "vdAdi": "ASLANAPA MALMÜD.",
+        "ilKodu": 43
+      },
+      {
+        "orgOid": "00000000001442",
+        "vdKodu": "043111",
+        "vdAdi": "ÇAVDARHİSAR MALMÜD.",
+        "ilKodu": 43
+      },
+      {
+        "orgOid": "00000000001020",
+        "vdKodu": "043280",
+        "vdAdi": "ÇİNİLİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 43
+      },
+      {
+        "orgOid": "00000000001437",
+        "vdKodu": "043102",
+        "vdAdi": "DOMANİÇ MALMÜD.",
+        "ilKodu": 43
+      },
+      {
+        "orgOid": "00000000001439",
+        "vdKodu": "043108",
+        "vdAdi": "DUMLUPINAR MALMÜD.",
+        "ilKodu": 43
+      },
+      {
+        "orgOid": "00000000001781",
+        "vdKodu": "043263",
+        "vdAdi": "EMET VERGİ DAİRESİ MÜD.",
+        "ilKodu": 43
+      },
+      {
+        "orgOid": "00000000001780",
+        "vdKodu": "043260",
+        "vdAdi": "GEDİZ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 43
+      },
+      {
+        "orgOid": "00000000001440",
+        "vdKodu": "043109",
+        "vdAdi": "HİSARCIK MALMÜD.",
+        "ilKodu": 43
+      },
+      {
+        "orgOid": "00000000001443",
+        "vdKodu": "043112",
+        "vdAdi": "PAZARLAR MALMÜD.",
+        "ilKodu": 43
+      },
+      {
+        "orgOid": "00000000001441",
+        "vdKodu": "043110",
+        "vdAdi": "ŞAPHANE MALMÜD.",
+        "ilKodu": 43
+      },
+      {
+        "orgOid": "00000000001101",
+        "vdKodu": "043261",
+        "vdAdi": "SİMAV VERGİ DAİRESİ MÜD.",
+        "ilKodu": 43
+      },
+      {
+        "orgOid": "00000000001019",
+        "vdKodu": "043262",
+        "vdAdi": "TAVŞANLI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 43
+      }
+    ]
+  },
+  {
+    "il": "MALATYA",
+    "ilceler": [
+      {
+        "orgOid": "00000000001444",
+        "vdKodu": "044101",
+        "vdAdi": "AKÇADAĞ MALMÜD.",
+        "ilKodu": 44
+      },
+      {
+        "orgOid": "00000000001445",
+        "vdKodu": "044102",
+        "vdAdi": "ARAPGİR MALMÜD.",
+        "ilKodu": 44
+      },
+      {
+        "orgOid": "00000000001446",
+        "vdKodu": "044103",
+        "vdAdi": "ARGUVAN MALMÜD.",
+        "ilKodu": 44
+      },
+      {
+        "orgOid": "00000000001452",
+        "vdKodu": "044109",
+        "vdAdi": "BATTALGAZİ MALMÜD.",
+        "ilKodu": 44
+      },
+      {
+        "orgOid": "00000000001022",
+        "vdKodu": "044252",
+        "vdAdi": "BEYDAĞI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 44
+      },
+      {
+        "orgOid": "00000000001447",
+        "vdKodu": "044104",
+        "vdAdi": "DARENDE MALMÜD.",
+        "ilKodu": 44
+      },
+      {
+        "orgOid": "00000000001448",
+        "vdKodu": "044105",
+        "vdAdi": "DOĞANŞEHİR MALMÜD.",
+        "ilKodu": 44
+      },
+      {
+        "orgOid": "00000000001453",
+        "vdKodu": "044110",
+        "vdAdi": "DOĞANYOL MALMÜD.",
+        "ilKodu": 44
+      },
+      {
+        "orgOid": "00000000001021",
+        "vdKodu": "044251",
+        "vdAdi": "FIRAT VERGİ DAİRESİ MÜD.",
+        "ilKodu": 44
+      },
+      {
+        "orgOid": "00000000001449",
+        "vdKodu": "044106",
+        "vdAdi": "HEKİMHAN MALMÜD.",
+        "ilKodu": 44
+      },
+      {
+        "orgOid": "00000000001454",
+        "vdKodu": "044111",
+        "vdAdi": "KALE (MALATYA) MALMÜD.",
+        "ilKodu": 44
+      },
+      {
+        "orgOid": "00000000001455",
+        "vdKodu": "044112",
+        "vdAdi": "KULUNCAK MALMÜD.",
+        "ilKodu": 44
+      },
+      {
+        "orgOid": "00000000001450",
+        "vdKodu": "044107",
+        "vdAdi": "PÜTÜRGE MALMÜD.",
+        "ilKodu": 44
+      },
+      {
+        "orgOid": "00000000001456",
+        "vdKodu": "044113",
+        "vdAdi": "YAZIHAN MALMÜD.",
+        "ilKodu": 44
+      },
+      {
+        "orgOid": "00000000001451",
+        "vdKodu": "044108",
+        "vdAdi": "YEŞİLYURT (MALATYA) MALMÜD.",
+        "ilKodu": 44
+      }
+    ]
+  },
+  {
+    "il": "MANİSA",
+    "ilceler": [
+      {
+        "orgOid": "00000000001458",
+        "vdKodu": "045113",
+        "vdAdi": "AHMETLİ MALMÜD.",
+        "ilKodu": 45
+      },
+      {
+        "orgOid": "00000000001023",
+        "vdKodu": "045201",
+        "vdAdi": "AKHİSAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 45
+      },
+      {
+        "orgOid": "00000000001024",
+        "vdKodu": "045202",
+        "vdAdi": "ALAŞEHİR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 45
+      },
+      {
+        "orgOid": "00000000001782",
+        "vdKodu": "045203",
+        "vdAdi": "DEMİRCİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 45
+      },
+      {
+        "orgOid": "00000000001459",
+        "vdKodu": "045114",
+        "vdAdi": "GÖLMARMARA MALMÜD.",
+        "ilKodu": 45
+      },
+      {
+        "orgOid": "00000000001786",
+        "vdKodu": "045210",
+        "vdAdi": "GÖRDES VERGİ DAİRESİ MÜD.",
+        "ilKodu": 45
+      },
+      {
+        "orgOid": "00000000001783",
+        "vdKodu": "045204",
+        "vdAdi": "KIRKAĞAÇ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 45
+      },
+      {
+        "orgOid": "00000000001460",
+        "vdKodu": "045115",
+        "vdAdi": "KÖPRÜBAŞI (MANİSA) MALMÜD.",
+        "ilKodu": 45
+      },
+      {
+        "orgOid": "00000000001787",
+        "vdKodu": "045211",
+        "vdAdi": "KULA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 45
+      },
+      {
+        "orgOid": "00000000001917",
+        "vdKodu": "045250",
+        "vdAdi": "MANİSA İHTİSAS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 45
+      },
+      {
+        "orgOid": "00000000001028",
+        "vdKodu": "045252",
+        "vdAdi": "MESİR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 45
+      },
+      {
+        "orgOid": "00000000001025",
+        "vdKodu": "045205",
+        "vdAdi": "SALİHLİ ADİL ORAL VERGİ DAİRESİ MÜD.",
+        "ilKodu": 45
+      },
+      {
+        "orgOid": "00000000001784",
+        "vdKodu": "045206",
+        "vdAdi": "SARIGÖL VERGİ DAİRESİ MÜD.",
+        "ilKodu": 45
+      },
+      {
+        "orgOid": "00000000001785",
+        "vdKodu": "045207",
+        "vdAdi": "SARUHANLI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 45
+      },
+      {
+        "orgOid": "00000000001690",
+        "vdKodu": "045251",
+        "vdAdi": "ŞEHİT CİHAN GÜNEŞ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 45
+      },
+      {
+        "orgOid": "00000000001457",
+        "vdKodu": "045110",
+        "vdAdi": "SELENDİ MALMÜD.",
+        "ilKodu": 45
+      },
+      {
+        "orgOid": "00000000001026",
+        "vdKodu": "045208",
+        "vdAdi": "SOMA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 45
+      },
+      {
+        "orgOid": "00000000001027",
+        "vdKodu": "045209",
+        "vdAdi": "TURGUTLU VERGİ DAİRESİ MÜD.",
+        "ilKodu": 45
+      }
+    ]
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "ilceler": [
+      {
+        "orgOid": "00000000001789",
+        "vdKodu": "046261",
+        "vdAdi": "AFŞİN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 46
+      },
+      {
+        "orgOid": "00000000001030",
+        "vdKodu": "046280",
+        "vdAdi": "AKSU VERGİ DAİRESİ MÜD.",
+        "ilKodu": 46
+      },
+      {
+        "orgOid": "00000000001461",
+        "vdKodu": "046102",
+        "vdAdi": "ANDIRIN MALMÜD.",
+        "ilKodu": 46
+      },
+      {
+        "orgOid": "00000000001029",
+        "vdKodu": "046201",
+        "vdAdi": "ASLANBEY VERGİ DAİRESİ MÜD.",
+        "ilKodu": 46
+      },
+      {
+        "orgOid": "00000000001464",
+        "vdKodu": "046107",
+        "vdAdi": "ÇAĞLAYANCERİT MALMÜD.",
+        "ilKodu": 46
+      },
+      {
+        "orgOid": "00000000001465",
+        "vdKodu": "046108",
+        "vdAdi": "EKİNÖZÜ MALMÜD.",
+        "ilKodu": 46
+      },
+      {
+        "orgOid": "00000000001788",
+        "vdKodu": "046260",
+        "vdAdi": "ELBİSTAN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 46
+      },
+      {
+        "orgOid": "00000000001462",
+        "vdKodu": "046104",
+        "vdAdi": "GÖKSUN MALMÜD.",
+        "ilKodu": 46
+      },
+      {
+        "orgOid": "00000000001466",
+        "vdKodu": "046109",
+        "vdAdi": "NURHAK MALMÜD.",
+        "ilKodu": 46
+      },
+      {
+        "orgOid": "00000000001790",
+        "vdKodu": "046262",
+        "vdAdi": "PAZARCIK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 46
+      },
+      {
+        "orgOid": "00000000001463",
+        "vdKodu": "046106",
+        "vdAdi": "TÜRKOĞLU MALMÜD.",
+        "ilKodu": 46
+      }
+    ]
+  },
+  {
+    "il": "MARDİN",
+    "ilceler": [
+      {
+        "orgOid": "00000000001472",
+        "vdKodu": "047112",
+        "vdAdi": "DARGEÇİT MALMÜD.",
+        "ilKodu": 47
+      },
+      {
+        "orgOid": "00000000001467",
+        "vdKodu": "047102",
+        "vdAdi": "DERİK MALMÜD.",
+        "ilKodu": 47
+      },
+      {
+        "orgOid": "00000000001032",
+        "vdKodu": "047261",
+        "vdAdi": "KIZILTEPE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 47
+      },
+      {
+        "orgOid": "00000000001031",
+        "vdKodu": "047260",
+        "vdAdi": "MARDİN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 47
+      },
+      {
+        "orgOid": "00000000001468",
+        "vdKodu": "047106",
+        "vdAdi": "MAZIDAĞI MALMÜD.",
+        "ilKodu": 47
+      },
+      {
+        "orgOid": "00000000001469",
+        "vdKodu": "047107",
+        "vdAdi": "MİDYAT MALMÜD.",
+        "ilKodu": 47
+      },
+      {
+        "orgOid": "00000000001791",
+        "vdKodu": "047262",
+        "vdAdi": "NUSAYBİN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 47
+      },
+      {
+        "orgOid": "00000000001470",
+        "vdKodu": "047109",
+        "vdAdi": "ÖMERLİ MALMÜD.",
+        "ilKodu": 47
+      },
+      {
+        "orgOid": "00000000001471",
+        "vdKodu": "047110",
+        "vdAdi": "SAVUR MALMÜD.",
+        "ilKodu": 47
+      },
+      {
+        "orgOid": "00000000001473",
+        "vdKodu": "047113",
+        "vdAdi": "YEŞİLLİ MALMÜD.",
+        "ilKodu": 47
+      }
+    ]
+  },
+  {
+    "il": "MUĞLA",
+    "ilceler": [
+      {
+        "orgOid": "00000000001034",
+        "vdKodu": "048261",
+        "vdAdi": "BODRUM VERGİ DAİRESİ MÜD.",
+        "ilKodu": 48
+      },
+      {
+        "orgOid": "00000000001476",
+        "vdKodu": "048269",
+        "vdAdi": "DALAMAN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 48
+      },
+      {
+        "orgOid": "00000000001474",
+        "vdKodu": "048268",
+        "vdAdi": "DATÇA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 48
+      },
+      {
+        "orgOid": "00000000001035",
+        "vdKodu": "048262",
+        "vdAdi": "FETHİYE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 48
+      },
+      {
+        "orgOid": "00000000001477",
+        "vdKodu": "048111",
+        "vdAdi": "KAVAKLIDERE MALMÜD.",
+        "ilKodu": 48
+      },
+      {
+        "orgOid": "00000000001793",
+        "vdKodu": "048263",
+        "vdAdi": "KÖYCEĞİZ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 48
+      },
+      {
+        "orgOid": "00000000001037",
+        "vdKodu": "048265",
+        "vdAdi": "MARMARİS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 48
+      },
+      {
+        "orgOid": "00000000001036",
+        "vdKodu": "048264",
+        "vdAdi": "MİLAS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 48
+      },
+      {
+        "orgOid": "00000000001033",
+        "vdKodu": "048260",
+        "vdAdi": "MUĞLA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 48
+      },
+      {
+        "orgOid": "00000000001792",
+        "vdKodu": "048267",
+        "vdAdi": "ORTACA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 48
+      },
+      {
+        "orgOid": "0vhov8ucrx1evf",
+        "vdKodu": "048113",
+        "vdAdi": "SEYDİKEMER MALMÜD.",
+        "ilKodu": 48
+      },
+      {
+        "orgOid": "00000000001475",
+        "vdKodu": "048108",
+        "vdAdi": "ULA MALMÜD.",
+        "ilKodu": 48
+      },
+      {
+        "orgOid": "00000000001794",
+        "vdKodu": "048266",
+        "vdAdi": "YATAĞAN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 48
+      }
+    ]
+  },
+  {
+    "il": "MUŞ",
+    "ilceler": [
+      {
+        "orgOid": "00000000001478",
+        "vdKodu": "049101",
+        "vdAdi": "BULANIK MALMÜD.",
+        "ilKodu": 49
+      },
+      {
+        "orgOid": "00000000001481",
+        "vdKodu": "049104",
+        "vdAdi": "HASKÖY MALMÜD.",
+        "ilKodu": 49
+      },
+      {
+        "orgOid": "00000000001482",
+        "vdKodu": "049105",
+        "vdAdi": "KORKUT MALMÜD.",
+        "ilKodu": 49
+      },
+      {
+        "orgOid": "00000000001479",
+        "vdKodu": "049102",
+        "vdAdi": "MALAZGİRT MALMÜD.",
+        "ilKodu": 49
+      },
+      {
+        "orgOid": "00000000001038",
+        "vdKodu": "049260",
+        "vdAdi": "MUŞ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 49
+      },
+      {
+        "orgOid": "00000000001480",
+        "vdKodu": "049103",
+        "vdAdi": "VARTO MALMÜD.",
+        "ilKodu": 49
+      }
+    ]
+  },
+  {
+    "il": "NEVŞEHİR",
+    "ilceler": [
+      {
+        "orgOid": "00000000001488",
+        "vdKodu": "050107",
+        "vdAdi": "ACIGÖL MALMÜD.",
+        "ilKodu": 50
+      },
+      {
+        "orgOid": "00000000001483",
+        "vdKodu": "050101",
+        "vdAdi": "AVANOS MALMÜD.",
+        "ilKodu": 50
+      },
+      {
+        "orgOid": "00000000001484",
+        "vdKodu": "050102",
+        "vdAdi": "DERİNKUYU MALMÜD.",
+        "ilKodu": 50
+      },
+      {
+        "orgOid": "00000000001485",
+        "vdKodu": "050103",
+        "vdAdi": "GÜLŞEHİR MALMÜD.",
+        "ilKodu": 50
+      },
+      {
+        "orgOid": "00000000001486",
+        "vdKodu": "050104",
+        "vdAdi": "HACIBEKTAŞ MALMÜD.",
+        "ilKodu": 50
+      },
+      {
+        "orgOid": "00000000001487",
+        "vdKodu": "050105",
+        "vdAdi": "KOZAKLI MALMÜD.",
+        "ilKodu": 50
+      },
+      {
+        "orgOid": "00000000001039",
+        "vdKodu": "050260",
+        "vdAdi": "NEVŞEHİR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 50
+      },
+      {
+        "orgOid": "00000000001795",
+        "vdKodu": "050106",
+        "vdAdi": "ÜRGÜP MALMÜD.",
+        "ilKodu": 50
+      }
+    ]
+  },
+  {
+    "il": "NİĞDE",
+    "ilceler": [
+      {
+        "orgOid": "00000000001491",
+        "vdKodu": "051106",
+        "vdAdi": "ALTUNHİSAR MALMÜD.",
+        "ilKodu": 51
+      },
+      {
+        "orgOid": "00000000001796",
+        "vdKodu": "051262",
+        "vdAdi": "BOR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 51
+      },
+      {
+        "orgOid": "00000000001489",
+        "vdKodu": "051103",
+        "vdAdi": "ÇAMARDI MALMÜD.",
+        "ilKodu": 51
+      },
+      {
+        "orgOid": "00000000001492",
+        "vdKodu": "051107",
+        "vdAdi": "ÇİFTLİK MALMÜD.",
+        "ilKodu": 51
+      },
+      {
+        "orgOid": "00000000001040",
+        "vdKodu": "051260",
+        "vdAdi": "NİĞDE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 51
+      },
+      {
+        "orgOid": "00000000001490",
+        "vdKodu": "051105",
+        "vdAdi": "ULUKIŞLA MALMÜD.",
+        "ilKodu": 51
+      }
+    ]
+  },
+  {
+    "il": "ORDU",
+    "ilceler": [
+      {
+        "orgOid": "00000000001493",
+        "vdKodu": "052101",
+        "vdAdi": "AKKUŞ MALMÜD.",
+        "ilKodu": 52
+      },
+      {
+        "orgOid": "00000000001494",
+        "vdKodu": "052102",
+        "vdAdi": "AYBASTI MALMÜD.",
+        "ilKodu": 52
+      },
+      {
+        "orgOid": "00000000001041",
+        "vdKodu": "052201",
+        "vdAdi": "BOZTEPE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 52
+      },
+      {
+        "orgOid": "00000000001503",
+        "vdKodu": "052113",
+        "vdAdi": "ÇAMAŞ MALMÜD.",
+        "ilKodu": 52
+      },
+      {
+        "orgOid": "00000000001504",
+        "vdKodu": "052114",
+        "vdAdi": "ÇATALPINAR MALMÜD.",
+        "ilKodu": 52
+      },
+      {
+        "orgOid": "00000000001505",
+        "vdKodu": "052115",
+        "vdAdi": "ÇAYBAŞI MALMÜD.",
+        "ilKodu": 52
+      },
+      {
+        "orgOid": "00000000001102",
+        "vdKodu": "052261",
+        "vdAdi": "FATSA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 52
+      },
+      {
+        "orgOid": "00000000001495",
+        "vdKodu": "052104",
+        "vdAdi": "GÖLKÖY MALMÜD.",
+        "ilKodu": 52
+      },
+      {
+        "orgOid": "00000000001501",
+        "vdKodu": "052111",
+        "vdAdi": "GÜLYALI MALMÜD.",
+        "ilKodu": 52
+      },
+      {
+        "orgOid": "00000000001502",
+        "vdKodu": "052112",
+        "vdAdi": "GÜRGENTEPE MALMÜD.",
+        "ilKodu": 52
+      },
+      {
+        "orgOid": "00000000001506",
+        "vdKodu": "052116",
+        "vdAdi": "İKİZCE MALMÜD.",
+        "ilKodu": 52
+      },
+      {
+        "orgOid": "00000000001507",
+        "vdKodu": "052117",
+        "vdAdi": "KABADÜZ MALMÜD.",
+        "ilKodu": 52
+      },
+      {
+        "orgOid": "00000000001508",
+        "vdKodu": "052118",
+        "vdAdi": "KABATAŞ MALMÜD.",
+        "ilKodu": 52
+      },
+      {
+        "orgOid": "00000000001042",
+        "vdKodu": "052260",
+        "vdAdi": "KÖPRÜBAŞI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 52
+      },
+      {
+        "orgOid": "00000000001496",
+        "vdKodu": "052105",
+        "vdAdi": "KORGAN MALMÜD.",
+        "ilKodu": 52
+      },
+      {
+        "orgOid": "00000000001497",
+        "vdKodu": "052106",
+        "vdAdi": "KUMRU MALMÜD.",
+        "ilKodu": 52
+      },
+      {
+        "orgOid": "00000000001498",
+        "vdKodu": "052107",
+        "vdAdi": "MESUDİYE MALMÜD.",
+        "ilKodu": 52
+      },
+      {
+        "orgOid": "00000000001499",
+        "vdKodu": "052108",
+        "vdAdi": "PERŞEMBE MALMÜD.",
+        "ilKodu": 52
+      },
+      {
+        "orgOid": "00000000001500",
+        "vdKodu": "052109",
+        "vdAdi": "ULUBEY (ORDU) MALMÜD.",
+        "ilKodu": 52
+      },
+      {
+        "orgOid": "00000000001103",
+        "vdKodu": "052262",
+        "vdAdi": "ÜNYE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 52
+      }
+    ]
+  },
+  {
+    "il": "RİZE",
+    "ilceler": [
+      {
+        "orgOid": "00000000001799",
+        "vdKodu": "053263",
+        "vdAdi": "ARDEŞEN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 53
+      },
+      {
+        "orgOid": "00000000001509",
+        "vdKodu": "053102",
+        "vdAdi": "ÇAMLIHEMŞİN MALMÜD.",
+        "ilKodu": 53
+      },
+      {
+        "orgOid": "00000000001797",
+        "vdKodu": "053261",
+        "vdAdi": "ÇAYELİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 53
+      },
+      {
+        "orgOid": "00000000001514",
+        "vdKodu": "053109",
+        "vdAdi": "DEREPAZARI MALMÜD.",
+        "ilKodu": 53
+      },
+      {
+        "orgOid": "00000000001510",
+        "vdKodu": "053104",
+        "vdAdi": "FINDIKLI MALMÜD.",
+        "ilKodu": 53
+      },
+      {
+        "orgOid": "00000000001513",
+        "vdKodu": "053108",
+        "vdAdi": "GÜNEYSU MALMÜD.",
+        "ilKodu": 53
+      },
+      {
+        "orgOid": "00000000001515",
+        "vdKodu": "053110",
+        "vdAdi": "HEMŞİN MALMÜD.",
+        "ilKodu": 53
+      },
+      {
+        "orgOid": "00000000001511",
+        "vdKodu": "053105",
+        "vdAdi": "İKİZDERE MALMÜD.",
+        "ilKodu": 53
+      },
+      {
+        "orgOid": "00000000001516",
+        "vdKodu": "053111",
+        "vdAdi": "İYİDERE MALMÜD.",
+        "ilKodu": 53
+      },
+      {
+        "orgOid": "00000000001043",
+        "vdKodu": "053201",
+        "vdAdi": "KAÇKAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 53
+      },
+      {
+        "orgOid": "00000000001512",
+        "vdKodu": "053106",
+        "vdAdi": "KALKANDERE MALMÜD.",
+        "ilKodu": 53
+      },
+      {
+        "orgOid": "00000000001798",
+        "vdKodu": "053262",
+        "vdAdi": "PAZAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 53
+      },
+      {
+        "orgOid": "00000000001044",
+        "vdKodu": "053260",
+        "vdAdi": "YEŞİLÇAY VERGİ DAİRESİ MÜD.",
+        "ilKodu": 53
+      }
+    ]
+  },
+  {
+    "il": "SAKARYA",
+    "ilceler": [
+      {
+        "orgOid": "00000000001800",
+        "vdKodu": "054201",
+        "vdAdi": "AKYAZI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 54
+      },
+      {
+        "orgOid": "00000000001046",
+        "vdKodu": "054252",
+        "vdAdi": "ALİ FUAT CEBESOY VERGİ DAİRESİ MÜD.",
+        "ilKodu": 54
+      },
+      {
+        "orgOid": "00000000001801",
+        "vdKodu": "054202",
+        "vdAdi": "GEYVE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 54
+      },
+      {
+        "orgOid": "00000000001045",
+        "vdKodu": "054251",
+        "vdAdi": "GÜMRÜKÖNÜ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 54
+      },
+      {
+        "orgOid": "00000000001802",
+        "vdKodu": "054203",
+        "vdAdi": "HENDEK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 54
+      },
+      {
+        "orgOid": "00000000001522",
+        "vdKodu": "054111",
+        "vdAdi": "KARAPÜRÇEK MALMÜD.",
+        "ilKodu": 54
+      },
+      {
+        "orgOid": "00000000001803",
+        "vdKodu": "054204",
+        "vdAdi": "KARASU VERGİ DAİRESİ MÜD.",
+        "ilKodu": 54
+      },
+      {
+        "orgOid": "00000000001517",
+        "vdKodu": "054105",
+        "vdAdi": "KAYNARCA MALMÜD.",
+        "ilKodu": 54
+      },
+      {
+        "orgOid": "00000000001519",
+        "vdKodu": "054107",
+        "vdAdi": "KOCAALİ MALMÜD.",
+        "ilKodu": 54
+      },
+      {
+        "orgOid": "00000000001520",
+        "vdKodu": "054108",
+        "vdAdi": "PAMUKOVA MALMÜD.",
+        "ilKodu": 54
+      },
+      {
+        "orgOid": "00000000001925",
+        "vdKodu": "054250",
+        "vdAdi": "SAKARYA İHTİSAS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 54
+      },
+      {
+        "orgOid": "00000000001518",
+        "vdKodu": "054253",
+        "vdAdi": "SAPANCA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 54
+      },
+      {
+        "orgOid": "00000000001521",
+        "vdKodu": "054109",
+        "vdAdi": "TARAKLI MALMÜD.",
+        "ilKodu": 54
+      }
+    ]
+  },
+  {
+    "il": "SAMSUN",
+    "ilceler": [
+      {
+        "orgOid": "00000000001527",
+        "vdKodu": "055110",
+        "vdAdi": "19 MAYIS MALMÜD.",
+        "ilKodu": 55
+      },
+      {
+        "orgOid": "00000000001049",
+        "vdKodu": "055251",
+        "vdAdi": "19 MAYIS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 55
+      },
+      {
+        "orgOid": "00000000001523",
+        "vdKodu": "055101",
+        "vdAdi": "ALAÇAM MALMÜD.",
+        "ilKodu": 55
+      },
+      {
+        "orgOid": "00000000001526",
+        "vdKodu": "055109",
+        "vdAdi": "ASARCIK MALMÜD.",
+        "ilKodu": 55
+      },
+      {
+        "orgOid": "00000000001529",
+        "vdKodu": "055113",
+        "vdAdi": "AYVACIK (SAMSUN) MALMÜD.",
+        "ilKodu": 55
+      },
+      {
+        "orgOid": "00000000001047",
+        "vdKodu": "055202",
+        "vdAdi": "BAFRA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 55
+      },
+      {
+        "orgOid": "00000000001048",
+        "vdKodu": "055203",
+        "vdAdi": "ÇARŞAMBA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 55
+      },
+      {
+        "orgOid": "00000000001050",
+        "vdKodu": "055252",
+        "vdAdi": "GAZİLER VERGİ DAİRESİ MÜD.",
+        "ilKodu": 55
+      },
+      {
+        "orgOid": "00000000001807",
+        "vdKodu": "055205",
+        "vdAdi": "HAVZA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 55
+      },
+      {
+        "orgOid": "00000000001524",
+        "vdKodu": "055105",
+        "vdAdi": "KAVAK MALMÜD.",
+        "ilKodu": 55
+      },
+      {
+        "orgOid": "00000000001525",
+        "vdKodu": "055106",
+        "vdAdi": "LADİK MALMÜD.",
+        "ilKodu": 55
+      },
+      {
+        "orgOid": "00000000001528",
+        "vdKodu": "055111",
+        "vdAdi": "SALIPAZARI MALMÜD.",
+        "ilKodu": 55
+      },
+      {
+        "orgOid": "00000000001805",
+        "vdKodu": "055112",
+        "vdAdi": "TEKKEKÖY MALMÜD.",
+        "ilKodu": 55
+      },
+      {
+        "orgOid": "00000000001806",
+        "vdKodu": "055204",
+        "vdAdi": "TERME VERGİ DAİRESİ MÜD.",
+        "ilKodu": 55
+      },
+      {
+        "orgOid": "00000000001804",
+        "vdKodu": "055108",
+        "vdAdi": "VEZİRKÖPRÜ MALMÜD.",
+        "ilKodu": 55
+      },
+      {
+        "orgOid": "00000000001530",
+        "vdKodu": "055114",
+        "vdAdi": "YAKAKENT MALMÜD.",
+        "ilKodu": 55
+      },
+      {
+        "orgOid": "00000000001691",
+        "vdKodu": "055290",
+        "vdAdi": "ZAFER VERGİ DAİRESİ MÜD.",
+        "ilKodu": 55
+      }
+    ]
+  },
+  {
+    "il": "SİİRT",
+    "ilceler": [
+      {
+        "orgOid": "00000000001531",
+        "vdKodu": "056102",
+        "vdAdi": "BAYKAN MALMÜD.",
+        "ilKodu": 56
+      },
+      {
+        "orgOid": "00000000001532",
+        "vdKodu": "056104",
+        "vdAdi": "ERUH MALMÜD.",
+        "ilKodu": 56
+      },
+      {
+        "orgOid": "00000000001533",
+        "vdKodu": "056106",
+        "vdAdi": "KURTALAN MALMÜD.",
+        "ilKodu": 56
+      },
+      {
+        "orgOid": "00000000001534",
+        "vdKodu": "056107",
+        "vdAdi": "PERVARİ MALMÜD.",
+        "ilKodu": 56
+      },
+      {
+        "orgOid": "00000000001051",
+        "vdKodu": "056260",
+        "vdAdi": "SİİRT VERGİ DAİRESİ MÜD.",
+        "ilKodu": 56
+      },
+      {
+        "orgOid": "00000000001535",
+        "vdKodu": "056110",
+        "vdAdi": "ŞİRVAN MALMÜD.",
+        "ilKodu": 56
+      }
+    ]
+  },
+  {
+    "il": "SİNOP",
+    "ilceler": [
+      {
+        "orgOid": "00000000001536",
+        "vdKodu": "057101",
+        "vdAdi": "AYANCIK MALMÜD.",
+        "ilKodu": 57
+      },
+      {
+        "orgOid": "00000000001053",
+        "vdKodu": "057261",
+        "vdAdi": "BOYABAT VERGİ DAİRESİ MÜD.",
+        "ilKodu": 57
+      },
+      {
+        "orgOid": "00000000001541",
+        "vdKodu": "057107",
+        "vdAdi": "DİKMEN MALMÜD.",
+        "ilKodu": 57
+      },
+      {
+        "orgOid": "00000000001537",
+        "vdKodu": "057103",
+        "vdAdi": "DURAĞAN MALMÜD.",
+        "ilKodu": 57
+      },
+      {
+        "orgOid": "00000000001538",
+        "vdKodu": "057104",
+        "vdAdi": "ERFELEK MALMÜD.",
+        "ilKodu": 57
+      },
+      {
+        "orgOid": "00000000001539",
+        "vdKodu": "057105",
+        "vdAdi": "GERZE MALMÜD.",
+        "ilKodu": 57
+      },
+      {
+        "orgOid": "00000000001542",
+        "vdKodu": "057108",
+        "vdAdi": "SARAYDÜZÜ MALMÜD.",
+        "ilKodu": 57
+      },
+      {
+        "orgOid": "00000000001052",
+        "vdKodu": "057260",
+        "vdAdi": "SİNOP VERGİ DAİRESİ MÜD.",
+        "ilKodu": 57
+      },
+      {
+        "orgOid": "00000000001540",
+        "vdKodu": "057106",
+        "vdAdi": "TÜRKELİ MALMÜD.",
+        "ilKodu": 57
+      }
+    ]
+  },
+  {
+    "il": "SİVAS",
+    "ilceler": [
+      {
+        "orgOid": "00000000001553",
+        "vdKodu": "058112",
+        "vdAdi": "AKINCILAR MALMÜD.",
+        "ilKodu": 58
+      },
+      {
+        "orgOid": "00000000001554",
+        "vdKodu": "058113",
+        "vdAdi": "ALTINYAYLA (SİVAS) MALMÜD.",
+        "ilKodu": 58
+      },
+      {
+        "orgOid": "00000000001543",
+        "vdKodu": "058101",
+        "vdAdi": "DİVRİĞİ MALMÜD.",
+        "ilKodu": 58
+      },
+      {
+        "orgOid": "00000000001555",
+        "vdKodu": "058114",
+        "vdAdi": "DOĞANŞAR MALMÜD.",
+        "ilKodu": 58
+      },
+      {
+        "orgOid": "00000000001544",
+        "vdKodu": "058102",
+        "vdAdi": "GEMEREK MALMÜD.",
+        "ilKodu": 58
+      },
+      {
+        "orgOid": "00000000001556",
+        "vdKodu": "058115",
+        "vdAdi": "GÖLOVA MALMÜD.",
+        "ilKodu": 58
+      },
+      {
+        "orgOid": "00000000001545",
+        "vdKodu": "058103",
+        "vdAdi": "GÜRÜN MALMÜD.",
+        "ilKodu": 58
+      },
+      {
+        "orgOid": "00000000001546",
+        "vdKodu": "058104",
+        "vdAdi": "HAFİK MALMÜD.",
+        "ilKodu": 58
+      },
+      {
+        "orgOid": "00000000001547",
+        "vdKodu": "058105",
+        "vdAdi": "İMRANLI MALMÜD.",
+        "ilKodu": 58
+      },
+      {
+        "orgOid": "00000000001054",
+        "vdKodu": "058201",
+        "vdAdi": "KALE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 58
+      },
+      {
+        "orgOid": "00000000001548",
+        "vdKodu": "058106",
+        "vdAdi": "KANGAL MALMÜD.",
+        "ilKodu": 58
+      },
+      {
+        "orgOid": "00000000001549",
+        "vdKodu": "058107",
+        "vdAdi": "KOYULHİSAR MALMÜD.",
+        "ilKodu": 58
+      },
+      {
+        "orgOid": "00000000001808",
+        "vdKodu": "058260",
+        "vdAdi": "ŞARKIŞLA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 58
+      },
+      {
+        "orgOid": "00000000001055",
+        "vdKodu": "058280",
+        "vdAdi": "SİTE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 58
+      },
+      {
+        "orgOid": "00000000001550",
+        "vdKodu": "058109",
+        "vdAdi": "SUŞEHRİ MALMÜD.",
+        "ilKodu": 58
+      },
+      {
+        "orgOid": "00000000001557",
+        "vdKodu": "058116",
+        "vdAdi": "ULAŞ MALMÜD.",
+        "ilKodu": 58
+      },
+      {
+        "orgOid": "00000000001551",
+        "vdKodu": "058110",
+        "vdAdi": "YILDIZELİ MALMÜD.",
+        "ilKodu": 58
+      },
+      {
+        "orgOid": "00000000001552",
+        "vdKodu": "058111",
+        "vdAdi": "ZARA MALMÜD.",
+        "ilKodu": 58
+      }
+    ]
+  },
+  {
+    "il": "TEKİRDAĞ",
+    "ilceler": [
+      {
+        "orgOid": "00000000001058",
+        "vdKodu": "059261",
+        "vdAdi": "ÇERKEZKÖY VERGİ DAİRESİ MÜD.",
+        "ilKodu": 59
+      },
+      {
+        "orgOid": "00000000001918",
+        "vdKodu": "059250",
+        "vdAdi": "ÇORLU İHTİSAS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 59
+      },
+      {
+        "orgOid": "00000000001059",
+        "vdKodu": "059262",
+        "vdAdi": "ÇORLU VERGİ DAİRESİ MÜD.",
+        "ilKodu": 59
+      },
+      {
+        "orgOid": "00000000001104",
+        "vdKodu": "059263",
+        "vdAdi": "HAYRABOLU VERGİ DAİRESİ MÜD.",
+        "ilKodu": 59
+      },
+      {
+        "orgOid": "00000000001923",
+        "vdKodu": "059267",
+        "vdAdi": "KAPAKLI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 59
+      },
+      {
+        "orgOid": "00000000001105",
+        "vdKodu": "059264",
+        "vdAdi": "MALKARA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 59
+      },
+      {
+        "orgOid": "00000000001559",
+        "vdKodu": "059108",
+        "vdAdi": "MARM. EREĞLİSİ MALMÜD.",
+        "ilKodu": 59
+      },
+      {
+        "orgOid": "00000000001810",
+        "vdKodu": "059265",
+        "vdAdi": "MURATLI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 59
+      },
+      {
+        "orgOid": "00000000001057",
+        "vdKodu": "059260",
+        "vdAdi": "NAMIK KEMAL VERGİ DAİRESİ MÜD.",
+        "ilKodu": 59
+      },
+      {
+        "orgOid": "00000000001809",
+        "vdKodu": "059268",
+        "vdAdi": "SARAY VERGİ DAİRESİ MÜD.",
+        "ilKodu": 59
+      },
+      {
+        "orgOid": "00000000001558",
+        "vdKodu": "059266",
+        "vdAdi": "ŞARKÖY VERGİ DAİRESİ MÜD.",
+        "ilKodu": 59
+      },
+      {
+        "orgOid": "00000000001056",
+        "vdKodu": "059201",
+        "vdAdi": "SÜLEYMANPAŞA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 59
+      }
+    ]
+  },
+  {
+    "il": "TOKAT",
+    "ilceler": [
+      {
+        "orgOid": "00000000001560",
+        "vdKodu": "060101",
+        "vdAdi": "ALMUS MALMÜD.",
+        "ilKodu": 60
+      },
+      {
+        "orgOid": "00000000001561",
+        "vdKodu": "060102",
+        "vdAdi": "ARTOVA MALMÜD.",
+        "ilKodu": 60
+      },
+      {
+        "orgOid": "00000000001565",
+        "vdKodu": "060110",
+        "vdAdi": "BAŞÇİFTLİK MALMÜD.",
+        "ilKodu": 60
+      },
+      {
+        "orgOid": "00000000001811",
+        "vdKodu": "060261",
+        "vdAdi": "ERBAA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 60
+      },
+      {
+        "orgOid": "00000000001812",
+        "vdKodu": "060262",
+        "vdAdi": "NİKSAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 60
+      },
+      {
+        "orgOid": "00000000001563",
+        "vdKodu": "060108",
+        "vdAdi": "PAZAR (TOKAT) MALMÜD.",
+        "ilKodu": 60
+      },
+      {
+        "orgOid": "00000000001562",
+        "vdKodu": "060105",
+        "vdAdi": "REŞADİYE MALMÜD.",
+        "ilKodu": 60
+      },
+      {
+        "orgOid": "00000000001566",
+        "vdKodu": "060111",
+        "vdAdi": "SULUSARAY MALMÜD.",
+        "ilKodu": 60
+      },
+      {
+        "orgOid": "00000000001060",
+        "vdKodu": "060260",
+        "vdAdi": "TOKAT VERGİ DAİRESİ MÜD.",
+        "ilKodu": 60
+      },
+      {
+        "orgOid": "00000000001061",
+        "vdKodu": "060263",
+        "vdAdi": "TURHAL VERGİ DAİRESİ MÜD.",
+        "ilKodu": 60
+      },
+      {
+        "orgOid": "00000000001564",
+        "vdKodu": "060109",
+        "vdAdi": "YEŞİLYURT (TOKAT) MALMÜD.",
+        "ilKodu": 60
+      },
+      {
+        "orgOid": "00000000001813",
+        "vdKodu": "060264",
+        "vdAdi": "ZİLE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 60
+      }
+    ]
+  },
+  {
+    "il": "TRABZON",
+    "ilceler": [
+      {
+        "orgOid": "00000000001063",
+        "vdKodu": "061260",
+        "vdAdi": "AKÇAABAT VERGİ DAİRESİ MÜD.",
+        "ilKodu": 61
+      },
+      {
+        "orgOid": "00000000001567",
+        "vdKodu": "061102",
+        "vdAdi": "ARAKLI MALMÜD.",
+        "ilKodu": 61
+      },
+      {
+        "orgOid": "00000000001568",
+        "vdKodu": "061103",
+        "vdAdi": "ARSİN MALMÜD.",
+        "ilKodu": 61
+      },
+      {
+        "orgOid": "00000000001574",
+        "vdKodu": "061111",
+        "vdAdi": "BEŞİKDÜZÜ MALMÜD.",
+        "ilKodu": 61
+      },
+      {
+        "orgOid": "00000000001576",
+        "vdKodu": "061113",
+        "vdAdi": "ÇARŞIBAŞI MALMÜD.",
+        "ilKodu": 61
+      },
+      {
+        "orgOid": "00000000001569",
+        "vdKodu": "061104",
+        "vdAdi": "ÇAYKARA MALMÜD.",
+        "ilKodu": 61
+      },
+      {
+        "orgOid": "00000000001577",
+        "vdKodu": "061114",
+        "vdAdi": "DERNEKPAZARI MALMÜD.",
+        "ilKodu": 61
+      },
+      {
+        "orgOid": "00000000001578",
+        "vdKodu": "061115",
+        "vdAdi": "DÜZKÖY MALMÜD.",
+        "ilKodu": 61
+      },
+      {
+        "orgOid": "00000000001579",
+        "vdKodu": "061116",
+        "vdAdi": "HAYRAT MALMÜD.",
+        "ilKodu": 61
+      },
+      {
+        "orgOid": "00000000001062",
+        "vdKodu": "061201",
+        "vdAdi": "HIZIRBEY VERGİ DAİRESİ MÜD.",
+        "ilKodu": 61
+      },
+      {
+        "orgOid": "00000000001064",
+        "vdKodu": "061280",
+        "vdAdi": "KARADENİZ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 61
+      },
+      {
+        "orgOid": "00000000001580",
+        "vdKodu": "061117",
+        "vdAdi": "KÖPRÜBAŞI (TRABZON) MALMÜD.",
+        "ilKodu": 61
+      },
+      {
+        "orgOid": "00000000001570",
+        "vdKodu": "061105",
+        "vdAdi": "MAÇKA MALMÜD.",
+        "ilKodu": 61
+      },
+      {
+        "orgOid": "00000000001814",
+        "vdKodu": "061261",
+        "vdAdi": "OF VERGİ DAİRESİ MÜD.",
+        "ilKodu": 61
+      },
+      {
+        "orgOid": "00000000001575",
+        "vdKodu": "061112",
+        "vdAdi": "ŞALPAZARI MALMÜD.",
+        "ilKodu": 61
+      },
+      {
+        "orgOid": "00000000001571",
+        "vdKodu": "061107",
+        "vdAdi": "SÜRMENE MALMÜD.",
+        "ilKodu": 61
+      },
+      {
+        "orgOid": "00000000001572",
+        "vdKodu": "061108",
+        "vdAdi": "TONYA MALMÜD.",
+        "ilKodu": 61
+      },
+      {
+        "orgOid": "00000000001815",
+        "vdKodu": "061262",
+        "vdAdi": "VAKFIKEBİR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 61
+      },
+      {
+        "orgOid": "00000000001573",
+        "vdKodu": "061110",
+        "vdAdi": "YOMRA MALMÜD.",
+        "ilKodu": 61
+      }
+    ]
+  },
+  {
+    "il": "TUNCELİ",
+    "ilceler": [
+      {
+        "orgOid": "00000000001581",
+        "vdKodu": "062101",
+        "vdAdi": "ÇEMİŞGEZEK MALMÜD.",
+        "ilKodu": 62
+      },
+      {
+        "orgOid": "00000000001582",
+        "vdKodu": "062102",
+        "vdAdi": "HOZAT MALMÜD.",
+        "ilKodu": 62
+      },
+      {
+        "orgOid": "00000000001583",
+        "vdKodu": "062103",
+        "vdAdi": "MAZGİRT MALMÜD.",
+        "ilKodu": 62
+      },
+      {
+        "orgOid": "00000000001584",
+        "vdKodu": "062104",
+        "vdAdi": "NAZİMİYE MALMÜD.",
+        "ilKodu": 62
+      },
+      {
+        "orgOid": "00000000001585",
+        "vdKodu": "062105",
+        "vdAdi": "OVACIK (TUNCELİ) MALMÜD.",
+        "ilKodu": 62
+      },
+      {
+        "orgOid": "00000000001586",
+        "vdKodu": "062106",
+        "vdAdi": "PERTEK MALMÜD.",
+        "ilKodu": 62
+      },
+      {
+        "orgOid": "00000000001587",
+        "vdKodu": "062107",
+        "vdAdi": "PÜLÜMÜR MALMÜD.",
+        "ilKodu": 62
+      },
+      {
+        "orgOid": "00000000001065",
+        "vdKodu": "062260",
+        "vdAdi": "TUNCELİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 62
+      }
+    ]
+  },
+  {
+    "il": "ŞANLIURFA",
+    "ilceler": [
+      {
+        "orgOid": "00000000001588",
+        "vdKodu": "063101",
+        "vdAdi": "AKÇAKALE MALMÜD.",
+        "ilKodu": 63
+      },
+      {
+        "orgOid": "00000000001819",
+        "vdKodu": "063262",
+        "vdAdi": "BİRECİK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 63
+      },
+      {
+        "orgOid": "00000000001589",
+        "vdKodu": "063103",
+        "vdAdi": "BOZOVA MALMÜD.",
+        "ilKodu": 63
+      },
+      {
+        "orgOid": "00000000001592",
+        "vdKodu": "063282",
+        "vdAdi": "CEYLANPINAR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 63
+      },
+      {
+        "orgOid": "00000000001926",
+        "vdKodu": "063281",
+        "vdAdi": "GÖBEKLİTEPE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 63
+      },
+      {
+        "orgOid": "00000000001590",
+        "vdKodu": "063104",
+        "vdAdi": "HALFETİ MALMÜD.",
+        "ilKodu": 63
+      },
+      {
+        "orgOid": "00000000001593",
+        "vdKodu": "063110",
+        "vdAdi": "HARRAN MALMÜD.",
+        "ilKodu": 63
+      },
+      {
+        "orgOid": "00000000001591",
+        "vdKodu": "063105",
+        "vdAdi": "HİLVAN MALMÜD.",
+        "ilKodu": 63
+      },
+      {
+        "orgOid": "00000000001066",
+        "vdKodu": "063201",
+        "vdAdi": "ŞEHİTLİK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 63
+      },
+      {
+        "orgOid": "00000000001817",
+        "vdKodu": "063260",
+        "vdAdi": "SİVEREK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 63
+      },
+      {
+        "orgOid": "00000000001816",
+        "vdKodu": "063263",
+        "vdAdi": "SURUÇ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 63
+      },
+      {
+        "orgOid": "00000000001067",
+        "vdKodu": "063280",
+        "vdAdi": "TOPÇUMEYDANI VERGİ DAİRESİ MÜD.",
+        "ilKodu": 63
+      },
+      {
+        "orgOid": "00000000001818",
+        "vdKodu": "063261",
+        "vdAdi": "VİRANŞEHİR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 63
+      }
+    ]
+  },
+  {
+    "il": "UŞAK",
+    "ilceler": [
+      {
+        "orgOid": "00000000001821",
+        "vdKodu": "064261",
+        "vdAdi": "BANAZ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 64
+      },
+      {
+        "orgOid": "00000000001822",
+        "vdKodu": "064262",
+        "vdAdi": "EŞME VERGİ DAİRESİ MÜD.",
+        "ilKodu": 64
+      },
+      {
+        "orgOid": "00000000001820",
+        "vdKodu": "064103",
+        "vdAdi": "KARAHALLI MALMÜD.",
+        "ilKodu": 64
+      },
+      {
+        "orgOid": "00000000001595",
+        "vdKodu": "064105",
+        "vdAdi": "SİVASLI MALMÜD.",
+        "ilKodu": 64
+      },
+      {
+        "orgOid": "00000000001594",
+        "vdKodu": "064104",
+        "vdAdi": "ULUBEY (UŞAK) MALMÜD.",
+        "ilKodu": 64
+      },
+      {
+        "orgOid": "00000000001068",
+        "vdKodu": "064260",
+        "vdAdi": "UŞAK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 64
+      }
+    ]
+  },
+  {
+    "il": "VAN",
+    "ilceler": [
+      {
+        "orgOid": "00000000001602",
+        "vdKodu": "065108",
+        "vdAdi": "BAHÇESARAY MALMÜD.",
+        "ilKodu": 65
+      },
+      {
+        "orgOid": "00000000001596",
+        "vdKodu": "065101",
+        "vdAdi": "BAŞKALE MALMÜD.",
+        "ilKodu": 65
+      },
+      {
+        "orgOid": "00000000001603",
+        "vdKodu": "065109",
+        "vdAdi": "ÇALDIRAN MALMÜD.",
+        "ilKodu": 65
+      },
+      {
+        "orgOid": "00000000001597",
+        "vdKodu": "065102",
+        "vdAdi": "ÇATAK MALMÜD.",
+        "ilKodu": 65
+      },
+      {
+        "orgOid": "00000000001604",
+        "vdKodu": "065110",
+        "vdAdi": "EDREMİT (VAN) MALMÜD.",
+        "ilKodu": 65
+      },
+      {
+        "orgOid": "00000000001823",
+        "vdKodu": "065201",
+        "vdAdi": "ERCİŞ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 65
+      },
+      {
+        "orgOid": "00000000001598",
+        "vdKodu": "065104",
+        "vdAdi": "GEVAŞ MALMÜD.",
+        "ilKodu": 65
+      },
+      {
+        "orgOid": "00000000001599",
+        "vdKodu": "065105",
+        "vdAdi": "GÜRPINAR MALMÜD.",
+        "ilKodu": 65
+      },
+      {
+        "orgOid": "00000000001600",
+        "vdKodu": "065106",
+        "vdAdi": "MURADİYE MALMÜD.",
+        "ilKodu": 65
+      },
+      {
+        "orgOid": "00000000001601",
+        "vdKodu": "065107",
+        "vdAdi": "ÖZALP MALMÜD.",
+        "ilKodu": 65
+      },
+      {
+        "orgOid": "00000000001605",
+        "vdKodu": "065111",
+        "vdAdi": "SARAY (VAN) MALMÜD.",
+        "ilKodu": 65
+      },
+      {
+        "orgOid": "00000000001069",
+        "vdKodu": "065260",
+        "vdAdi": "VAN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 65
+      }
+    ]
+  },
+  {
+    "il": "YOZGAT",
+    "ilceler": [
+      {
+        "orgOid": "00000000001606",
+        "vdKodu": "066101",
+        "vdAdi": "AKDAĞMADENİ MALMÜD.",
+        "ilKodu": 66
+      },
+      {
+        "orgOid": "00000000001611",
+        "vdKodu": "066109",
+        "vdAdi": "AYDINCIK (YOZGAT) MALMÜD.",
+        "ilKodu": 66
+      },
+      {
+        "orgOid": "00000000001824",
+        "vdKodu": "066261",
+        "vdAdi": "BOĞAZLIYAN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 66
+      },
+      {
+        "orgOid": "00000000001612",
+        "vdKodu": "066110",
+        "vdAdi": "ÇANDIR MALMÜD.",
+        "ilKodu": 66
+      },
+      {
+        "orgOid": "00000000001607",
+        "vdKodu": "066103",
+        "vdAdi": "ÇAYIRALAN MALMÜD.",
+        "ilKodu": 66
+      },
+      {
+        "orgOid": "00000000001608",
+        "vdKodu": "066104",
+        "vdAdi": "ÇEKEREK MALMÜD.",
+        "ilKodu": 66
+      },
+      {
+        "orgOid": "00000000001613",
+        "vdKodu": "066111",
+        "vdAdi": "KADIŞEHRİ MALMÜD.",
+        "ilKodu": 66
+      },
+      {
+        "orgOid": "00000000001614",
+        "vdKodu": "066112",
+        "vdAdi": "SARAYKENT MALMÜD.",
+        "ilKodu": 66
+      },
+      {
+        "orgOid": "00000000001609",
+        "vdKodu": "066105",
+        "vdAdi": "SARIKAYA MALMÜD.",
+        "ilKodu": 66
+      },
+      {
+        "orgOid": "00000000001610",
+        "vdKodu": "066106",
+        "vdAdi": "ŞEFAATLİ MALMÜD.",
+        "ilKodu": 66
+      },
+      {
+        "orgOid": "00000000001825",
+        "vdKodu": "066262",
+        "vdAdi": "SORGUN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 66
+      },
+      {
+        "orgOid": "00000000001615",
+        "vdKodu": "066113",
+        "vdAdi": "YENİFAKILI MALMÜD.",
+        "ilKodu": 66
+      },
+      {
+        "orgOid": "00000000001826",
+        "vdKodu": "066263",
+        "vdAdi": "YERKÖY VERGİ DAİRESİ MÜD.",
+        "ilKodu": 66
+      },
+      {
+        "orgOid": "00000000001070",
+        "vdKodu": "066260",
+        "vdAdi": "YOZGAT VERGİ DAİRESİ MÜD.",
+        "ilKodu": 66
+      }
+    ]
+  },
+  {
+    "il": "ZONGULDAK",
+    "ilceler": [
+      {
+        "orgOid": "00000000001616",
+        "vdKodu": "067110",
+        "vdAdi": "ALAPLI MALMÜD.",
+        "ilKodu": 67
+      },
+      {
+        "orgOid": "00000000001106",
+        "vdKodu": "067263",
+        "vdAdi": "ÇAYCUMA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 67
+      },
+      {
+        "orgOid": "00000000001827",
+        "vdKodu": "067264",
+        "vdAdi": "DEVREK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 67
+      },
+      {
+        "orgOid": "00000000001617",
+        "vdKodu": "067113",
+        "vdAdi": "GÖKÇEBEY MALMÜD.",
+        "ilKodu": 67
+      },
+      {
+        "orgOid": "00000000001072",
+        "vdKodu": "067261",
+        "vdAdi": "KARADENİZ EREĞLİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 67
+      },
+      {
+        "orgOid": "00000000001073",
+        "vdKodu": "067280",
+        "vdAdi": "KARAELMAS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 67
+      },
+      {
+        "orgOid": "00000000001071",
+        "vdKodu": "067201",
+        "vdAdi": "UZUNMEHMET VERGİ DAİRESİ MÜD.",
+        "ilKodu": 67
+      }
+    ]
+  },
+  {
+    "il": "AKSARAY",
+    "ilceler": [
+      {
+        "orgOid": "00000000001618",
+        "vdKodu": "068101",
+        "vdAdi": "AĞAÇÖREN MALMÜD.",
+        "ilKodu": 68
+      },
+      {
+        "orgOid": "00000000001074",
+        "vdKodu": "068201",
+        "vdAdi": "AKSARAY VERGİ DAİRESİ MÜD.",
+        "ilKodu": 68
+      },
+      {
+        "orgOid": "00000000001622",
+        "vdKodu": "068105",
+        "vdAdi": "ESKİL MALMÜD.",
+        "ilKodu": 68
+      },
+      {
+        "orgOid": "00000000001623",
+        "vdKodu": "068106",
+        "vdAdi": "GÜLAĞAÇ MALMÜD.",
+        "ilKodu": 68
+      },
+      {
+        "orgOid": "00000000001619",
+        "vdKodu": "068102",
+        "vdAdi": "GÜZELYURT MALMÜD.",
+        "ilKodu": 68
+      },
+      {
+        "orgOid": "00000000001620",
+        "vdKodu": "068103",
+        "vdAdi": "ORTAKÖY (AKSARAY) MALMÜD.",
+        "ilKodu": 68
+      },
+      {
+        "orgOid": "00000000001621",
+        "vdKodu": "068104",
+        "vdAdi": "SARIYAHŞİ MALMÜD.",
+        "ilKodu": 68
+      },
+      {
+        "orgOid": "00000000002709",
+        "vdKodu": "068107",
+        "vdAdi": "SULTANHANI MALMÜD.",
+        "ilKodu": 68
+      }
+    ]
+  },
+  {
+    "il": "BAYBURT",
+    "ilceler": [
+      {
+        "orgOid": "00000000001624",
+        "vdKodu": "069101",
+        "vdAdi": "AYDINTEPE MALMÜD.",
+        "ilKodu": 69
+      },
+      {
+        "orgOid": "00000000001075",
+        "vdKodu": "069201",
+        "vdAdi": "BAYBURT VERGİ DAİRESİ MÜD.",
+        "ilKodu": 69
+      },
+      {
+        "orgOid": "00000000001625",
+        "vdKodu": "069102",
+        "vdAdi": "DEMİRÖZÜ MALMÜD.",
+        "ilKodu": 69
+      }
+    ]
+  },
+  {
+    "il": "KARAMAN",
+    "ilceler": [
+      {
+        "orgOid": "00000000001626",
+        "vdKodu": "070101",
+        "vdAdi": "AYRANCI MALMÜD.",
+        "ilKodu": 70
+      },
+      {
+        "orgOid": "00000000001629",
+        "vdKodu": "070104",
+        "vdAdi": "BAŞYAYLA MALMÜD.",
+        "ilKodu": 70
+      },
+      {
+        "orgOid": "00000000001627",
+        "vdKodu": "070102",
+        "vdAdi": "ERMENEK MALMÜD.",
+        "ilKodu": 70
+      },
+      {
+        "orgOid": "00000000001628",
+        "vdKodu": "070103",
+        "vdAdi": "K.KARABEKİR MALMÜD.",
+        "ilKodu": 70
+      },
+      {
+        "orgOid": "00000000001076",
+        "vdKodu": "070201",
+        "vdAdi": "KARAMAN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 70
+      },
+      {
+        "orgOid": "00000000001630",
+        "vdKodu": "070105",
+        "vdAdi": "SARIVELİLER MALMÜD.",
+        "ilKodu": 70
+      }
+    ]
+  },
+  {
+    "il": "KIRIKKALE",
+    "ilceler": [
+      {
+        "orgOid": "00000000001634",
+        "vdKodu": "071105",
+        "vdAdi": "BALIŞEYH MALMÜD.",
+        "ilKodu": 71
+      },
+      {
+        "orgOid": "00000000001635",
+        "vdKodu": "071106",
+        "vdAdi": "ÇELEBİ MALMÜD.",
+        "ilKodu": 71
+      },
+      {
+        "orgOid": "00000000001631",
+        "vdKodu": "071101",
+        "vdAdi": "DELİCE MALMÜD.",
+        "ilKodu": 71
+      },
+      {
+        "orgOid": "00000000001077",
+        "vdKodu": "071201",
+        "vdAdi": "IRMAK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 71
+      },
+      {
+        "orgOid": "00000000001078",
+        "vdKodu": "071202",
+        "vdAdi": "KALETEPE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 71
+      },
+      {
+        "orgOid": "00000000001636",
+        "vdKodu": "071107",
+        "vdAdi": "KARAKEÇİLİ MALMÜD.",
+        "ilKodu": 71
+      },
+      {
+        "orgOid": "00000000001632",
+        "vdKodu": "071102",
+        "vdAdi": "KESKİN MALMÜD.",
+        "ilKodu": 71
+      },
+      {
+        "orgOid": "00000000001633",
+        "vdKodu": "071103",
+        "vdAdi": "SULAKYURT MALMÜD.",
+        "ilKodu": 71
+      }
+    ]
+  },
+  {
+    "il": "BATMAN",
+    "ilceler": [
+      {
+        "orgOid": "00000000001107",
+        "vdKodu": "072260",
+        "vdAdi": "BATMAN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 72
+      },
+      {
+        "orgOid": "00000000001637",
+        "vdKodu": "072101",
+        "vdAdi": "BEŞİRİ MALMÜD.",
+        "ilKodu": 72
+      },
+      {
+        "orgOid": "00000000001638",
+        "vdKodu": "072102",
+        "vdAdi": "GERCÜŞ MALMÜD.",
+        "ilKodu": 72
+      },
+      {
+        "orgOid": "00000000001639",
+        "vdKodu": "072103",
+        "vdAdi": "HASANKEYF MALMÜD.",
+        "ilKodu": 72
+      },
+      {
+        "orgOid": "00000000001640",
+        "vdKodu": "072104",
+        "vdAdi": "KOZLUK MALMÜD.",
+        "ilKodu": 72
+      },
+      {
+        "orgOid": "00000000001641",
+        "vdKodu": "072105",
+        "vdAdi": "SASON MALMÜD.",
+        "ilKodu": 72
+      }
+    ]
+  },
+  {
+    "il": "ŞIRNAK",
+    "ilceler": [
+      {
+        "orgOid": "00000000001642",
+        "vdKodu": "073101",
+        "vdAdi": "BEYTÜŞŞEBAB MALMÜD.",
+        "ilKodu": 73
+      },
+      {
+        "orgOid": "00000000001080",
+        "vdKodu": "073261",
+        "vdAdi": "CİZRE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 73
+      },
+      {
+        "orgOid": "00000000001643",
+        "vdKodu": "073103",
+        "vdAdi": "GÜÇLÜKONAK MALMÜD.",
+        "ilKodu": 73
+      },
+      {
+        "orgOid": "00000000001644",
+        "vdKodu": "073104",
+        "vdAdi": "İDİL MALMÜD.",
+        "ilKodu": 73
+      },
+      {
+        "orgOid": "00000000001081",
+        "vdKodu": "073262",
+        "vdAdi": "SİLOPİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 73
+      },
+      {
+        "orgOid": "00000000001079",
+        "vdKodu": "073260",
+        "vdAdi": "ŞIRNAK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 73
+      },
+      {
+        "orgOid": "00000000001645",
+        "vdKodu": "073106",
+        "vdAdi": "ULUDERE MALMÜD.",
+        "ilKodu": 73
+      }
+    ]
+  },
+  {
+    "il": "BARTIN",
+    "ilceler": [
+      {
+        "orgOid": "00000000001646",
+        "vdKodu": "074101",
+        "vdAdi": "AMASRA MALMÜD.",
+        "ilKodu": 74
+      },
+      {
+        "orgOid": "00000000001082",
+        "vdKodu": "074260",
+        "vdAdi": "BARTIN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 74
+      },
+      {
+        "orgOid": "00000000001647",
+        "vdKodu": "074102",
+        "vdAdi": "KURUCAŞİLE MALMÜD.",
+        "ilKodu": 74
+      },
+      {
+        "orgOid": "00000000001648",
+        "vdKodu": "074103",
+        "vdAdi": "ULUS MALMÜD.",
+        "ilKodu": 74
+      }
+    ]
+  },
+  {
+    "il": "ARDAHAN",
+    "ilceler": [
+      {
+        "orgOid": "00000000001083",
+        "vdKodu": "075201",
+        "vdAdi": "ARDAHAN VERGİ DAİRESİ MÜD.",
+        "ilKodu": 75
+      },
+      {
+        "orgOid": "00000000001649",
+        "vdKodu": "075101",
+        "vdAdi": "ÇILDIR MALMÜD.",
+        "ilKodu": 75
+      },
+      {
+        "orgOid": "00000000001650",
+        "vdKodu": "075102",
+        "vdAdi": "DAMAL MALMÜD.",
+        "ilKodu": 75
+      },
+      {
+        "orgOid": "00000000001651",
+        "vdKodu": "075103",
+        "vdAdi": "GÖLE MALMÜD.",
+        "ilKodu": 75
+      },
+      {
+        "orgOid": "00000000001652",
+        "vdKodu": "075104",
+        "vdAdi": "HANAK MALMÜD.",
+        "ilKodu": 75
+      },
+      {
+        "orgOid": "00000000001653",
+        "vdKodu": "075105",
+        "vdAdi": "POSOF MALMÜD.",
+        "ilKodu": 75
+      }
+    ]
+  },
+  {
+    "il": "IĞDIR",
+    "ilceler": [
+      {
+        "orgOid": "00000000001654",
+        "vdKodu": "076101",
+        "vdAdi": "ARALIK MALMÜD.",
+        "ilKodu": 76
+      },
+      {
+        "orgOid": "00000000001084",
+        "vdKodu": "076201",
+        "vdAdi": "IĞDIR VERGİ DAİRESİ MÜD.",
+        "ilKodu": 76
+      },
+      {
+        "orgOid": "00000000001655",
+        "vdKodu": "076102",
+        "vdAdi": "KARAKOYUNLU MALMÜD.",
+        "ilKodu": 76
+      },
+      {
+        "orgOid": "00000000001656",
+        "vdKodu": "076103",
+        "vdAdi": "TUZLUCA MALMÜD.",
+        "ilKodu": 76
+      }
+    ]
+  },
+  {
+    "il": "YALOVA",
+    "ilceler": [
+      {
+        "orgOid": "00000000001657",
+        "vdKodu": "077101",
+        "vdAdi": "ALTINOVA MALMÜD.",
+        "ilKodu": 77
+      },
+      {
+        "orgOid": "00000000001658",
+        "vdKodu": "077102",
+        "vdAdi": "ARMUTLU MALMÜD.",
+        "ilKodu": 77
+      },
+      {
+        "orgOid": "00000000001659",
+        "vdKodu": "077103",
+        "vdAdi": "ÇINARCIK MALMÜD.",
+        "ilKodu": 77
+      },
+      {
+        "orgOid": "00000000001085",
+        "vdKodu": "077201",
+        "vdAdi": "YALOVA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 77
+      }
+    ]
+  },
+  {
+    "il": "KARABÜK",
+    "ilceler": [
+      {
+        "orgOid": "00000000001660",
+        "vdKodu": "078101",
+        "vdAdi": "EFLANİ MALMÜD.",
+        "ilKodu": 78
+      },
+      {
+        "orgOid": "00000000001661",
+        "vdKodu": "078102",
+        "vdAdi": "ESKİPAZAR MALMÜD.",
+        "ilKodu": 78
+      },
+      {
+        "orgOid": "00000000001086",
+        "vdKodu": "078201",
+        "vdAdi": "KARABÜK VERGİ DAİRESİ MÜD.",
+        "ilKodu": 78
+      },
+      {
+        "orgOid": "00000000001662",
+        "vdKodu": "078103",
+        "vdAdi": "OVACIK (KARABÜK) MALMÜD.",
+        "ilKodu": 78
+      },
+      {
+        "orgOid": "00000000001828",
+        "vdKodu": "078260",
+        "vdAdi": "SAFRANBOLU VERGİ DAİRESİ MÜD.",
+        "ilKodu": 78
+      },
+      {
+        "orgOid": "00000000001663",
+        "vdKodu": "078105",
+        "vdAdi": "YENİCE (KARABÜK) MALMÜD.",
+        "ilKodu": 78
+      }
+    ]
+  },
+  {
+    "il": "KİLİS",
+    "ilceler": [
+      {
+        "orgOid": "00000000001829",
+        "vdKodu": "079201",
+        "vdAdi": "KİLİS VERGİ DAİRESİ MÜD.",
+        "ilKodu": 79
+      }
+    ]
+  },
+  {
+    "il": "OSMANİYE",
+    "ilceler": [
+      {
+        "orgOid": "00000000001664",
+        "vdKodu": "080101",
+        "vdAdi": "BAHÇE MALMÜD.",
+        "ilKodu": 80
+      },
+      {
+        "orgOid": "00000000001665",
+        "vdKodu": "080102",
+        "vdAdi": "DÜZİÇİ MALMÜD.",
+        "ilKodu": 80
+      },
+      {
+        "orgOid": "00000000001666",
+        "vdKodu": "080104",
+        "vdAdi": "HASANBEYLİ MALMÜD.",
+        "ilKodu": 80
+      },
+      {
+        "orgOid": "00000000001088",
+        "vdKodu": "080260",
+        "vdAdi": "KADİRLİ VERGİ DAİRESİ MÜD.",
+        "ilKodu": 80
+      },
+      {
+        "orgOid": "00000000001087",
+        "vdKodu": "080201",
+        "vdAdi": "OSMANİYE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 80
+      },
+      {
+        "orgOid": "00000000001667",
+        "vdKodu": "080105",
+        "vdAdi": "SUMBAS MALMÜD.",
+        "ilKodu": 80
+      },
+      {
+        "orgOid": "00000000001668",
+        "vdKodu": "080106",
+        "vdAdi": "TOPRAKKALE MALMÜD.",
+        "ilKodu": 80
+      }
+    ]
+  },
+  {
+    "il": "DÜZCE",
+    "ilceler": [
+      {
+        "orgOid": "00000000001830",
+        "vdKodu": "081261",
+        "vdAdi": "AKÇAKOCA VERGİ DAİRESİ MÜD.",
+        "ilKodu": 81
+      },
+      {
+        "orgOid": "00000000001670",
+        "vdKodu": "081103",
+        "vdAdi": "ÇİLİMLİ MALMÜD.",
+        "ilKodu": 81
+      },
+      {
+        "orgOid": "00000000001669",
+        "vdKodu": "081102",
+        "vdAdi": "CUMAYERİ MALMÜD.",
+        "ilKodu": 81
+      },
+      {
+        "orgOid": "00000000001089",
+        "vdKodu": "081260",
+        "vdAdi": "DÜZCE VERGİ DAİRESİ MÜD.",
+        "ilKodu": 81
+      },
+      {
+        "orgOid": "00000000001671",
+        "vdKodu": "081104",
+        "vdAdi": "GÖLYAKA MALMÜD.",
+        "ilKodu": 81
+      },
+      {
+        "orgOid": "00000000001672",
+        "vdKodu": "081105",
+        "vdAdi": "GÜMÜŞOVA MALMÜD.",
+        "ilKodu": 81
+      },
+      {
+        "orgOid": "00000000001673",
+        "vdKodu": "081106",
+        "vdAdi": "KAYNAŞLI MALMÜD.",
+        "ilKodu": 81
+      },
+      {
+        "orgOid": "00000000001674",
+        "vdKodu": "081107",
+        "vdAdi": "YIĞILCA MALMÜD.",
+        "ilKodu": 81
+      }
+    ]
+  }
+]
